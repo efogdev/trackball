@@ -1,0 +1,5 @@
+*.log
+\#auto*
+*.lck
+*-backups
+production/
