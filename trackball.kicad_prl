@@ -5,7 +5,7 @@
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -116,32 +116,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "trackball.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 35,
-          "pos_y": 32,
-          "size_x": 1160,
-          "size_y": 1053
-        }
-      },
-      {
-        "name": "trackball.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 35,
-          "pos_y": 32,
-          "size_x": 2046,
-          "size_y": 1601
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
