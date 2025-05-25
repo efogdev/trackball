@@ -9,10 +9,10 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 1.0,
+      "pads": 0.5,
       "shapes": 1.0,
-      "tracks": 0.8799999952316284,
-      "vias": 0.8799999952316284,
+      "tracks": 0.550000011920929,
+      "vias": 0.5600000023841858,
       "zones": 0.6
     },
     "selection_filter": {
@@ -127,6 +127,18 @@
           "pos_y": 0,
           "size_x": 1230,
           "size_y": 1062
+        }
+      },
+      {
+        "name": "trackball.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 2817,
+          "pos_y": -161,
+          "size_x": 2046,
+          "size_y": 1601
         }
       }
     ]
