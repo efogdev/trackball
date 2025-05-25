@@ -121,24 +121,12 @@
         "name": "trackball.kicad_pcb",
         "open": false,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
+          "pos_x": 3225,
+          "pos_y": 189,
           "size_x": 1230,
-          "size_y": 1062
-        }
-      },
-      {
-        "name": "trackball.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 2817,
-          "pos_y": -161,
-          "size_x": 2046,
-          "size_y": 1601
+          "size_y": 1001
         }
       }
     ]

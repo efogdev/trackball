@@ -527,7 +527,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "trackball.step",
       "svg": "",
       "vrml": ""
     },
