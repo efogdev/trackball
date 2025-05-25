@@ -116,7 +116,20 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "trackball.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1230,
+          "size_y": 1062
+        }
+      }
+    ]
   },
   "schematic": {
     "selection_filter": {
