@@ -9,11 +9,11 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
-      "pads": 0.5,
+      "pads": 0.7699999809265137,
       "shapes": 1.0,
-      "tracks": 0.550000011920929,
-      "vias": 0.5600000023841858,
-      "zones": 0.6
+      "tracks": 0.7599999904632568,
+      "vias": 0.7699999809265137,
+      "zones": 0.47999998927116394
     },
     "selection_filter": {
       "dimensions": true,
@@ -121,17 +121,17 @@
         "name": "trackball.kicad_pcb",
         "open": true,
         "window": {
-          "display": 0,
+          "display": 1,
           "maximized": true,
           "pos_x": 3225,
-          "pos_y": 189,
+          "pos_y": 219,
           "size_x": 1230,
           "size_y": 1001
         }
       },
       {
         "name": "trackball.kicad_sch",
-        "open": true,
+        "open": false,
         "window": {
           "display": 1,
           "maximized": true,
