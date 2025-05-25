@@ -3,3 +3,6 @@
 *.lck
 *-backups
 production/
+_autosave*
+*autosave*
+
