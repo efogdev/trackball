@@ -1,4 +1,4 @@
-25726418281520526
+25735159288671828
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102704,6 +102704,13 @@ PCB antenna
 20
 1
 easyeda2kicad
+ANT-SMD_L3.2-W1.6
+
+
+0
+2
+2
+easyeda2kicad
 AQFN-73_L7.0-W7.0-P0.50-BL-EP4.8
 
 
@@ -102858,6 +102865,13 @@ LED0402-RD_GREEN
 2
 2
 easyeda2kicad
+LED0402-RD_WHITE
+
+
+0
+2
+2
+easyeda2kicad
 LQFN-56_L7.0-W7.0-P0.4-EP
 
 
@@ -102914,6 +102928,13 @@ RES-ARRAY-SMD_1606-16P-L4.0-W1.6-BL
 16
 16
 easyeda2kicad
+SENSOR-SMD_PD15-22C-TR8
+
+
+0
+4
+4
+easyeda2kicad
 SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
 
 
@@ -102927,6 +102948,13 @@ SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP
 0
 9
 9
+easyeda2kicad
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
 easyeda2kicad
 SOT-563_L1.6-W1.2-P0.50-LS1.6-BR
 
@@ -103041,6 +103069,13 @@ chinchilla3
 0
 easyeda2kicad
 chinchilla4
+
+
+0
+0
+0
+etc
+chinchilla
 
 
 0
