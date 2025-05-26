@@ -47,7 +47,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfdff",
+    "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfd7f",
     "zone_display_mode": 0
   },
   "git": {
@@ -119,12 +119,12 @@
     "files": [
       {
         "name": "trackball.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
-          "pos_x": 0,
-          "pos_y": 0,
+          "pos_x": 3225,
+          "pos_y": 311,
           "size_x": 1230,
           "size_y": 818
         }
