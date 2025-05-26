@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -119,7 +119,7 @@
     "files": [
       {
         "name": "trackball.kicad_pcb",
-        "open": false,
+        "open": true,
         "window": {
           "display": 1,
           "maximized": true,
