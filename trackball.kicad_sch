@@ -9345,6 +9345,12 @@
 		(uuid "02a85dd8-2086-4e62-b1fd-e161214bcd12")
 	)
 	(junction
+		(at 97.79 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "058b8c0d-2dea-4eda-9b88-78353fafb95d")
+	)
+	(junction
 		(at 417.83 170.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9957,6 +9963,12 @@
 		(uuid "990d6117-592c-4fab-9a56-e35db4b804e9")
 	)
 	(junction
+		(at 97.79 383.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9aff20aa-7eaa-4b3c-8f77-67462cb2b31a")
+	)
+	(junction
 		(at 276.86 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10143,7 +10155,7 @@
 		(uuid "c21db1a3-33a1-48b3-abff-ed534f7ea7df")
 	)
 	(junction
-		(at 312.42 389.89)
+		(at 317.5 391.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2ce8b4b-3f04-4617-aef0-ded84523ae01")
@@ -10287,13 +10299,13 @@
 		(uuid "eaa1eb65-ec86-46bc-af38-be3f29cd9893")
 	)
 	(junction
-		(at 312.42 412.75)
+		(at 317.5 414.02)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb361c28-5c80-49e7-9388-416783c72e15")
 	)
 	(junction
-		(at 312.42 424.18)
+		(at 317.5 425.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "edb3b445-a5f6-4c95-8efb-9aeece6ee5f2")
@@ -10353,7 +10365,7 @@
 		(uuid "fd0c5b5a-75bc-463a-9ae5-db3d59142e70")
 	)
 	(junction
-		(at 312.42 401.32)
+		(at 317.5 402.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffce5722-c64c-4ad7-af6d-8f238eb98727")
@@ -10431,7 +10443,7 @@
 		(uuid "4be6371b-4dc4-4d26-aa6f-8598cd1540e0")
 	)
 	(no_connect
-		(at 292.1 415.29)
+		(at 297.18 416.56)
 		(uuid "4c3b96e9-f151-4a0f-81b9-e4c27b7b38c8")
 	)
 	(no_connect
@@ -10616,7 +10628,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 401.32) (xy 317.5 401.32)
+			(xy 317.5 402.59) (xy 322.58 402.59)
 		)
 		(stroke
 			(width 0)
@@ -10656,7 +10668,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 412.75) (xy 312.42 424.18)
+			(xy 317.5 414.02) (xy 317.5 425.45)
 		)
 		(stroke
 			(width 0)
@@ -10786,7 +10798,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 389.89) (xy 340.36 389.89)
+			(xy 342.9 391.16) (xy 345.44 391.16)
 		)
 		(stroke
 			(width 0)
@@ -10896,7 +10908,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 424.18) (xy 340.36 424.18)
+			(xy 342.9 425.45) (xy 345.44 425.45)
 		)
 		(stroke
 			(width 0)
@@ -11306,7 +11318,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 400.05) (xy 292.1 400.05)
+			(xy 134.62 401.32) (xy 297.18 401.32)
 		)
 		(stroke
 			(width 0)
@@ -11396,7 +11408,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 378.46) (xy 149.86 386.08)
+			(xy 154.94 379.73) (xy 154.94 387.35)
 		)
 		(stroke
 			(width 0)
@@ -11466,7 +11478,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 389.89) (xy 317.5 389.89)
+			(xy 317.5 391.16) (xy 322.58 391.16)
 		)
 		(stroke
 			(width 0)
@@ -11516,7 +11528,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 378.46) (xy 190.5 386.08)
+			(xy 195.58 379.73) (xy 195.58 387.35)
 		)
 		(stroke
 			(width 0)
@@ -11646,7 +11658,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 401.32) (xy 312.42 412.75)
+			(xy 317.5 402.59) (xy 317.5 414.02)
 		)
 		(stroke
 			(width 0)
@@ -11686,7 +11698,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 378.46) (xy 231.14 386.08)
+			(xy 236.22 379.73) (xy 236.22 387.35)
 		)
 		(stroke
 			(width 0)
@@ -11836,7 +11848,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 377.19) (xy 345.44 377.19)
+			(xy 342.9 378.46) (xy 350.52 378.46)
 		)
 		(stroke
 			(width 0)
@@ -11846,7 +11858,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 378.46) (xy 271.78 386.08)
+			(xy 276.86 379.73) (xy 276.86 387.35)
 		)
 		(stroke
 			(width 0)
@@ -11956,7 +11968,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 378.46) (xy 210.82 386.08)
+			(xy 215.9 379.73) (xy 215.9 387.35)
 		)
 		(stroke
 			(width 0)
@@ -12056,7 +12068,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 389.89) (xy 312.42 401.32)
+			(xy 317.5 391.16) (xy 317.5 402.59)
 		)
 		(stroke
 			(width 0)
@@ -12136,7 +12148,7 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 415.29) (xy 210.82 422.91)
+			(xy 215.9 416.56) (xy 215.9 424.18)
 		)
 		(stroke
 			(width 0)
@@ -12176,7 +12188,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 389.89) (xy 97.79 392.43)
+			(xy 97.79 394.97) (xy 97.79 396.24)
 		)
 		(stroke
 			(width 0)
@@ -12196,7 +12208,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 378.46) (xy 251.46 386.08)
+			(xy 256.54 379.73) (xy 256.54 387.35)
 		)
 		(stroke
 			(width 0)
@@ -12293,16 +12305,6 @@
 			(type default)
 		)
 		(uuid "5044a7c8-c2c2-4647-903c-bc1e47fc4305")
-	)
-	(wire
-		(pts
-			(xy 97.79 364.49) (xy 97.79 367.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "519e900b-b5ae-45de-b807-c8d3aaa73c77")
 	)
 	(wire
 		(pts
@@ -12736,7 +12738,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 400.05) (xy 129.54 422.91)
+			(xy 134.62 401.32) (xy 134.62 424.18)
 		)
 		(stroke
 			(width 0)
@@ -12753,6 +12755,16 @@
 			(type default)
 		)
 		(uuid "66d2def2-48d1-42c4-bd84-cd7a91ce74be")
+	)
+	(wire
+		(pts
+			(xy 97.79 383.54) (xy 101.6 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66f50a7f-24c5-4440-bb09-bd43bd85b381")
 	)
 	(wire
 		(pts
@@ -12996,7 +13008,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 424.18) (xy 312.42 427.99)
+			(xy 317.5 425.45) (xy 317.5 429.26)
 		)
 		(stroke
 			(width 0)
@@ -13006,7 +13018,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 377.19) (xy 97.79 379.73)
+			(xy 97.79 383.54) (xy 97.79 384.81)
 		)
 		(stroke
 			(width 0)
@@ -13016,7 +13028,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 401.32) (xy 340.36 401.32)
+			(xy 342.9 402.59) (xy 345.44 402.59)
 		)
 		(stroke
 			(width 0)
@@ -13916,6 +13928,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 372.11) (xy 97.79 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982142e2-a892-4f43-b8a7-dccea669445b")
+	)
+	(wire
+		(pts
 			(xy 234.95 284.48) (xy 238.76 284.48)
 		)
 		(stroke
@@ -14296,6 +14318,16 @@
 	)
 	(wire
 		(pts
+			(xy 97.79 373.38) (xy 101.6 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a44ec73f-1b5e-4713-84f7-f3889a73a90b")
+	)
+	(wire
+		(pts
 			(xy 185.42 330.2) (xy 185.42 336.55)
 		)
 		(stroke
@@ -14336,7 +14368,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 378.46) (xy 170.18 386.08)
+			(xy 175.26 379.73) (xy 175.26 387.35)
 		)
 		(stroke
 			(width 0)
@@ -14356,7 +14388,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 424.18) (xy 317.5 424.18)
+			(xy 317.5 425.45) (xy 322.58 425.45)
 		)
 		(stroke
 			(width 0)
@@ -14366,7 +14398,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 377.19) (xy 312.42 389.89)
+			(xy 317.5 378.46) (xy 317.5 391.16)
 		)
 		(stroke
 			(width 0)
@@ -14396,7 +14428,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 415.29) (xy 231.14 422.91)
+			(xy 236.22 416.56) (xy 236.22 424.18)
 		)
 		(stroke
 			(width 0)
@@ -14526,7 +14558,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 415.29) (xy 271.78 422.91)
+			(xy 276.86 416.56) (xy 276.86 424.18)
 		)
 		(stroke
 			(width 0)
@@ -14556,7 +14588,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 415.29) (xy 149.86 422.91)
+			(xy 154.94 416.56) (xy 154.94 424.18)
 		)
 		(stroke
 			(width 0)
@@ -14716,7 +14748,7 @@
 	)
 	(wire
 		(pts
-			(xy 292.1 378.46) (xy 292.1 400.05)
+			(xy 297.18 379.73) (xy 297.18 401.32)
 		)
 		(stroke
 			(width 0)
@@ -14736,7 +14768,7 @@
 	)
 	(wire
 		(pts
-			(xy 337.82 412.75) (xy 340.36 412.75)
+			(xy 342.9 414.02) (xy 345.44 414.02)
 		)
 		(stroke
 			(width 0)
@@ -14776,7 +14808,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 412.75) (xy 317.5 412.75)
+			(xy 317.5 414.02) (xy 322.58 414.02)
 		)
 		(stroke
 			(width 0)
@@ -15066,7 +15098,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 415.29) (xy 190.5 422.91)
+			(xy 195.58 416.56) (xy 195.58 424.18)
 		)
 		(stroke
 			(width 0)
@@ -15246,7 +15278,7 @@
 	)
 	(wire
 		(pts
-			(xy 350.52 389.89) (xy 354.33 389.89)
+			(xy 355.6 391.16) (xy 359.41 391.16)
 		)
 		(stroke
 			(width 0)
@@ -15656,7 +15688,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 415.29) (xy 170.18 422.91)
+			(xy 175.26 416.56) (xy 175.26 424.18)
 		)
 		(stroke
 			(width 0)
@@ -15776,7 +15808,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 377.19) (xy 317.5 377.19)
+			(xy 317.5 378.46) (xy 322.58 378.46)
 		)
 		(stroke
 			(width 0)
@@ -15956,7 +15988,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 415.29) (xy 251.46 422.91)
+			(xy 256.54 416.56) (xy 256.54 424.18)
 		)
 		(stroke
 			(width 0)
@@ -16296,7 +16328,7 @@
 	)
 	(wire
 		(pts
-			(xy 345.44 373.38) (xy 345.44 377.19)
+			(xy 350.52 374.65) (xy 350.52 378.46)
 		)
 		(stroke
 			(width 0)
@@ -16532,7 +16564,7 @@
 	)
 	(global_label "MCU_LED2"
 		(shape bidirectional)
-		(at 340.36 412.75 0)
+		(at 345.44 414.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16542,7 +16574,7 @@
 		)
 		(uuid "0b7eb2fc-c440-49be-85b9-f0783cb7bc13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 354.1326 412.75 0)
+			(at 359.2126 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17850,6 +17882,28 @@
 			)
 		)
 	)
+	(global_label "CHG_ISACTIVE"
+		(shape bidirectional)
+		(at 97.79 396.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b5939ea-621e-4864-8e29-6c277c914d0c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 114.7075 396.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SS1_CLK"
 		(shape bidirectional)
 		(at 48.26 48.26 0)
@@ -18204,7 +18258,7 @@
 	)
 	(global_label "MCU_LED3"
 		(shape bidirectional)
-		(at 340.36 401.32 0)
+		(at 345.44 402.59 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18214,7 +18268,7 @@
 		)
 		(uuid "5c72d138-2cad-446a-8da3-1dc65afd0fe2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 354.1326 401.32 0)
+			(at 359.2126 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18512,7 +18566,7 @@
 	)
 	(global_label "RGB_DOUT"
 		(shape bidirectional)
-		(at 129.54 386.08 180)
+		(at 134.62 387.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18522,7 +18576,7 @@
 		)
 		(uuid "6a780ed5-697d-4af3-b062-bfdc92830bdc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 115.7673 386.08 0)
+			(at 120.8473 387.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18886,7 +18940,7 @@
 	)
 	(global_label "USB_VBUS"
 		(shape bidirectional)
-		(at 354.33 389.89 0)
+		(at 359.41 391.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18896,7 +18950,7 @@
 		)
 		(uuid "78dc825e-7881-42a1-b01e-187b1425396a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.1027 389.89 0)
+			(at 373.1827 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19368,28 +19422,6 @@
 			)
 		)
 	)
-	(global_label "CHG_ISACTIVE"
-		(shape bidirectional)
-		(at 97.79 364.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9e73654e-a64e-4241-8fbf-a77f06283324")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 114.7075 364.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BAT_TS"
 		(shape bidirectional)
 		(at 180.34 327.66 180)
@@ -19414,7 +19446,7 @@
 	)
 	(global_label "MCU_LED1"
 		(shape bidirectional)
-		(at 340.36 424.18 0)
+		(at 345.44 425.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -19424,7 +19456,7 @@
 		)
 		(uuid "a14547cb-85ef-4075-9984-574cacbf0dd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 354.1326 424.18 0)
+			(at 359.2126 425.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20799,7 +20831,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 332.74 389.89 0)
+		(at 337.82 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20807,7 +20839,7 @@
 		(dnp no)
 		(uuid "00d803f9-8011-4796-bf6f-00ed3a085e8f")
 		(property "Reference" "R46"
-			(at 330.708 393.954 0)
+			(at 335.788 395.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20815,7 +20847,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 332.74 386.08 0)
+			(at 337.82 387.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20824,7 +20856,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 332.74 397.51 0)
+			(at 337.82 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20833,7 +20865,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 389.89 0)
+			(at 337.82 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20842,7 +20874,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 335.534 393.954 0)
+			(at 340.614 395.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20850,7 +20882,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 332.74 400.05 0)
+			(at 337.82 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20875,7 +20907,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 427.99 0)
+		(at 231.14 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20883,7 +20915,7 @@
 		(dnp no)
 		(uuid "038d63d7-9331-4e86-b036-e1cdf999662b")
 		(property "Reference" "#PWR091"
-			(at 226.06 434.34 0)
+			(at 231.14 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20892,7 +20924,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 226.06 432.308 0)
+			(at 231.14 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20900,7 +20932,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 427.99 0)
+			(at 231.14 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20909,7 +20941,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 427.99 0)
+			(at 231.14 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20918,7 +20950,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 427.99 0)
+			(at 231.14 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20940,7 +20972,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 160.02 382.27 0)
+		(at 165.1 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20948,7 +20980,7 @@
 		(dnp no)
 		(uuid "0425808a-cbc6-4db9-83bf-88007350d740")
 		(property "Reference" "U6"
-			(at 162.56 371.348 0)
+			(at 167.64 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20956,7 +20988,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 162.56 373.888 0)
+			(at 167.64 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20964,7 +20996,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 160.02 398.78 0)
+			(at 165.1 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20973,7 +21005,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 382.27 0)
+			(at 165.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20982,7 +21014,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 382.27 0)
+			(at 165.1 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20991,7 +21023,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 160.02 401.32 0)
+			(at 165.1 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21022,7 +21054,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 287.02 391.16 0)
+		(at 292.1 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21030,7 +21062,7 @@
 		(dnp no)
 		(uuid "05a372e8-d337-4b75-8b6b-f2b6728ea2c2")
 		(property "Reference" "#PWR078"
-			(at 287.02 397.51 0)
+			(at 292.1 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21039,7 +21071,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 287.02 395.478 0)
+			(at 292.1 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21047,7 +21079,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 287.02 391.16 0)
+			(at 292.1 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21056,7 +21088,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 391.16 0)
+			(at 292.1 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21065,7 +21097,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 287.02 391.16 0)
+			(at 292.1 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21914,7 +21946,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 160.02 419.1 0)
+		(at 165.1 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21922,7 +21954,7 @@
 		(dnp no)
 		(uuid "0c1ec3c2-bf15-40aa-8d72-9b3d02b728cf")
 		(property "Reference" "U14"
-			(at 162.56 408.178 0)
+			(at 167.64 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21930,7 +21962,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 162.56 410.718 0)
+			(at 167.64 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21938,7 +21970,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 160.02 435.61 0)
+			(at 165.1 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21947,7 +21979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 160.02 419.1 0)
+			(at 165.1 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21956,7 +21988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 160.02 419.1 0)
+			(at 165.1 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21965,7 +21997,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 160.02 438.15 0)
+			(at 165.1 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22074,7 +22106,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 322.58 412.75 0)
+		(at 327.66 414.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22082,7 +22114,7 @@
 		(dnp no)
 		(uuid "0d71b1a3-7b41-4911-ae3d-17cbd24b20b4")
 		(property "Reference" "LED4"
-			(at 322.58 416.814 0)
+			(at 327.66 418.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22090,7 +22122,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 321.82 406.4 0)
+			(at 326.9 407.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22099,7 +22131,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 322.58 420.37 0)
+			(at 327.66 421.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22108,7 +22140,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 412.75 0)
+			(at 327.66 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22117,7 +22149,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 412.75 0)
+			(at 327.66 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22126,7 +22158,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 322.58 422.91 0)
+			(at 327.66 424.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22151,7 +22183,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 217.17 373.38 0)
+		(at 222.25 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22159,7 +22191,7 @@
 		(dnp no)
 		(uuid "0dd1df21-b732-4b71-820f-beb58ec147e3")
 		(property "Reference" "#PWR065"
-			(at 217.17 377.19 0)
+			(at 222.25 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22168,7 +22200,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 217.17 369.062 0)
+			(at 222.25 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22176,7 +22208,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 373.38 0)
+			(at 222.25 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22185,7 +22217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 373.38 0)
+			(at 222.25 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22194,7 +22226,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 217.17 373.38 0)
+			(at 222.25 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22357,7 +22389,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 391.16 0)
+		(at 251.46 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22365,7 +22397,7 @@
 		(dnp no)
 		(uuid "102c20ee-aa75-4264-a133-603be80c7d79")
 		(property "Reference" "#PWR076"
-			(at 246.38 397.51 0)
+			(at 251.46 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22374,7 +22406,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 395.478 0)
+			(at 251.46 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22382,7 +22414,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 391.16 0)
+			(at 251.46 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22391,7 +22423,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 391.16 0)
+			(at 251.46 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22400,7 +22432,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 391.16 0)
+			(at 251.46 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23037,71 +23069,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 97.79 392.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "15d7e67c-d771-47f5-8d82-b239bfca807d")
-		(property "Reference" "#PWR0102"
-			(at 97.79 398.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 97.79 396.748 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 97.79 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 97.79 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 97.79 392.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a4638075-2189-4756-9817-e43ed5a45f96")
-		)
-		(instances
-			(project "trackball"
-				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
-					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 281.94 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23232,7 +23199,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 217.17 410.21 0)
+		(at 222.25 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23240,7 +23207,7 @@
 		(dnp no)
 		(uuid "181e1ef8-ff8e-457a-83fb-abf8efeccaa1")
 		(property "Reference" "#PWR083"
-			(at 217.17 414.02 0)
+			(at 222.25 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23249,7 +23216,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 217.17 405.892 0)
+			(at 222.25 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23257,7 +23224,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 217.17 410.21 0)
+			(at 222.25 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23266,7 +23233,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 217.17 410.21 0)
+			(at 222.25 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23275,7 +23242,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 217.17 410.21 0)
+			(at 222.25 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23582,7 +23549,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 261.62 419.1 0)
+		(at 266.7 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23590,7 +23557,7 @@
 		(dnp no)
 		(uuid "1b1f35c6-c355-4339-b931-21907ad92854")
 		(property "Reference" "U19"
-			(at 264.16 408.178 0)
+			(at 269.24 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23598,7 +23565,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 264.16 410.718 0)
+			(at 269.24 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23606,7 +23573,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 261.62 435.61 0)
+			(at 266.7 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23615,7 +23582,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 419.1 0)
+			(at 266.7 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23624,7 +23591,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 261.62 419.1 0)
+			(at 266.7 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23633,7 +23600,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 261.62 438.15 0)
+			(at 266.7 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23664,7 +23631,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 196.85 410.21 0)
+		(at 201.93 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23672,7 +23639,7 @@
 		(dnp no)
 		(uuid "1b25bfa1-fafb-49fc-9d74-c9dce899778c")
 		(property "Reference" "#PWR082"
-			(at 196.85 414.02 0)
+			(at 201.93 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23681,7 +23648,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 196.85 405.892 0)
+			(at 201.93 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23689,7 +23656,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 410.21 0)
+			(at 201.93 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23698,7 +23665,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 410.21 0)
+			(at 201.93 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23707,7 +23674,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 196.85 410.21 0)
+			(at 201.93 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23729,7 +23696,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 322.58 401.32 0)
+		(at 327.66 402.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -23737,7 +23704,7 @@
 		(dnp no)
 		(uuid "1c166c1b-68d7-4e87-81c7-0bf8dfbccfc0")
 		(property "Reference" "LED3"
-			(at 322.58 405.384 0)
+			(at 327.66 406.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23745,7 +23712,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 321.82 394.97 0)
+			(at 326.9 396.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23754,7 +23721,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 322.58 408.94 0)
+			(at 327.66 410.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23763,7 +23730,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 401.32 0)
+			(at 327.66 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23772,7 +23739,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 401.32 0)
+			(at 327.66 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23781,7 +23748,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 322.58 411.48 0)
+			(at 327.66 412.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24023,7 +23990,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 427.99 0)
+		(at 170.18 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24031,7 +23998,7 @@
 		(dnp no)
 		(uuid "20893d5c-66b4-4728-a050-44face955104")
 		(property "Reference" "#PWR088"
-			(at 165.1 434.34 0)
+			(at 170.18 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24040,7 +24007,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 432.308 0)
+			(at 170.18 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24048,7 +24015,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 427.99 0)
+			(at 170.18 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24057,7 +24024,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 427.99 0)
+			(at 170.18 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24066,7 +24033,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 427.99 0)
+			(at 170.18 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24527,7 +24494,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 220.98 419.1 0)
+		(at 226.06 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24535,7 +24502,7 @@
 		(dnp no)
 		(uuid "289f2349-2790-476d-94af-433f7e3918ed")
 		(property "Reference" "U17"
-			(at 223.52 408.178 0)
+			(at 228.6 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24543,7 +24510,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 223.52 410.718 0)
+			(at 228.6 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24551,7 +24518,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 220.98 435.61 0)
+			(at 226.06 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24560,7 +24527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 419.1 0)
+			(at 226.06 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24569,7 +24536,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 419.1 0)
+			(at 226.06 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24578,7 +24545,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 220.98 438.15 0)
+			(at 226.06 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24904,7 +24871,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 345.44 373.38 0)
+		(at 350.52 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24912,7 +24879,7 @@
 		(dnp no)
 		(uuid "317665b7-5abd-44d8-b08e-1d07fa3ddc03")
 		(property "Reference" "#PWR069"
-			(at 345.44 377.19 0)
+			(at 350.52 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24921,7 +24888,7 @@
 			)
 		)
 		(property "Value" "1V8"
-			(at 345.44 369.062 0)
+			(at 350.52 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24929,7 +24896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 345.44 373.38 0)
+			(at 350.52 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24938,7 +24905,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 345.44 373.38 0)
+			(at 350.52 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24947,7 +24914,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 345.44 373.38 0)
+			(at 350.52 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25128,7 +25095,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 176.53 373.38 0)
+		(at 181.61 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25136,7 +25103,7 @@
 		(dnp no)
 		(uuid "33fefad4-7a54-47a1-b7f5-2f8b4b197d45")
 		(property "Reference" "#PWR063"
-			(at 176.53 377.19 0)
+			(at 181.61 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25145,7 +25112,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 176.53 369.062 0)
+			(at 181.61 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25153,7 +25120,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 373.38 0)
+			(at 181.61 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25162,7 +25129,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 373.38 0)
+			(at 181.61 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25171,7 +25138,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 176.53 373.38 0)
+			(at 181.61 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26107,7 +26074,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 237.49 373.38 0)
+		(at 242.57 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26115,7 +26082,7 @@
 		(dnp no)
 		(uuid "3a6a5a25-c17c-4a0a-8b2d-cd64c05ce2a2")
 		(property "Reference" "#PWR066"
-			(at 237.49 377.19 0)
+			(at 242.57 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26124,7 +26091,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 237.49 369.062 0)
+			(at 242.57 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26132,7 +26099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 373.38 0)
+			(at 242.57 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26141,7 +26108,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 373.38 0)
+			(at 242.57 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26150,7 +26117,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 237.49 373.38 0)
+			(at 242.57 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26325,6 +26292,71 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 97.79 372.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c8e17d4-155d-43c1-8307-708674281a87")
+		(property "Reference" "#PWR033"
+			(at 97.79 375.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3"
+			(at 97.79 367.792 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.79 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 97.79 372.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6f404aec-6aad-4448-a5f2-3e170538bda8")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -27023,7 +27055,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 391.16 0)
+		(at 190.5 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27031,7 +27063,7 @@
 		(dnp no)
 		(uuid "46c9afa5-32f2-40d9-8a72-e1f200237283")
 		(property "Reference" "#PWR073"
-			(at 185.42 397.51 0)
+			(at 190.5 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27040,7 +27072,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 395.478 0)
+			(at 190.5 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27048,7 +27080,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 391.16 0)
+			(at 190.5 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27057,7 +27089,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 391.16 0)
+			(at 190.5 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27066,7 +27098,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 391.16 0)
+			(at 190.5 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27088,7 +27120,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 139.7 382.27 0)
+		(at 144.78 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27096,7 +27128,7 @@
 		(dnp no)
 		(uuid "46d79653-c9fc-4282-8700-0c82863302fe")
 		(property "Reference" "U5"
-			(at 142.24 371.348 0)
+			(at 147.32 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27104,7 +27136,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 142.24 373.888 0)
+			(at 147.32 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27112,7 +27144,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 139.7 398.78 0)
+			(at 144.78 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27121,7 +27153,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 382.27 0)
+			(at 144.78 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27130,7 +27162,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 382.27 0)
+			(at 144.78 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27139,7 +27171,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 139.7 401.32 0)
+			(at 144.78 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27215,7 +27247,7 @@
 			)
 		)
 		(property "Description" "1uF"
-			(at 102.87 416.052 90)
+			(at 102.362 416.052 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27466,7 +27498,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 322.58 424.18 0)
+		(at 327.66 425.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27474,7 +27506,7 @@
 		(dnp no)
 		(uuid "4ad09841-983a-4200-8216-6ea52e9e741c")
 		(property "Reference" "LED5"
-			(at 322.58 428.244 0)
+			(at 327.66 429.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27482,7 +27514,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 321.82 417.83 0)
+			(at 326.9 419.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27491,7 +27523,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 322.58 431.8 0)
+			(at 327.66 433.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27500,7 +27532,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 424.18 0)
+			(at 327.66 425.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27509,7 +27541,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 424.18 0)
+			(at 327.66 425.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27518,7 +27550,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 322.58 434.34 0)
+			(at 327.66 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27750,7 +27782,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 196.85 373.38 0)
+		(at 201.93 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27758,7 +27790,7 @@
 		(dnp no)
 		(uuid "4f971a39-5d19-4a72-b4e0-270d95182d4c")
 		(property "Reference" "#PWR064"
-			(at 196.85 377.19 0)
+			(at 201.93 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27767,7 +27799,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 196.85 369.062 0)
+			(at 201.93 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27775,7 +27807,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 373.38 0)
+			(at 201.93 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27784,7 +27816,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 373.38 0)
+			(at 201.93 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27793,7 +27825,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 196.85 373.38 0)
+			(at 201.93 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27815,7 +27847,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 180.34 382.27 0)
+		(at 185.42 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27823,7 +27855,7 @@
 		(dnp no)
 		(uuid "517d3439-dcac-486f-accb-e4db3273e20e")
 		(property "Reference" "U7"
-			(at 182.88 371.348 0)
+			(at 187.96 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27831,7 +27863,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 182.88 373.888 0)
+			(at 187.96 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27839,7 +27871,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 180.34 398.78 0)
+			(at 185.42 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27848,7 +27880,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 382.27 0)
+			(at 185.42 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27857,7 +27889,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 180.34 382.27 0)
+			(at 185.42 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27866,7 +27898,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 180.34 401.32 0)
+			(at 185.42 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28510,7 +28542,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 391.16 0)
+		(at 170.18 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28518,7 +28550,7 @@
 		(dnp no)
 		(uuid "5c0b1a4a-1222-473b-9983-898c59e648b6")
 		(property "Reference" "#PWR072"
-			(at 165.1 397.51 0)
+			(at 170.18 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28527,7 +28559,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 395.478 0)
+			(at 170.18 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28535,7 +28567,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 391.16 0)
+			(at 170.18 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28544,7 +28576,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 391.16 0)
+			(at 170.18 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28553,7 +28585,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 391.16 0)
+			(at 170.18 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28575,7 +28607,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 139.7 419.1 0)
+		(at 144.78 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28583,7 +28615,7 @@
 		(dnp no)
 		(uuid "5ca13e59-7c3e-4b4e-a2d7-0508f5c1fbab")
 		(property "Reference" "U13"
-			(at 142.24 408.178 0)
+			(at 147.32 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28591,7 +28623,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 142.24 410.718 0)
+			(at 147.32 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28599,7 +28631,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 139.7 435.61 0)
+			(at 144.78 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28608,7 +28640,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 419.1 0)
+			(at 144.78 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28617,7 +28649,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 139.7 419.1 0)
+			(at 144.78 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28626,7 +28658,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 139.7 438.15 0)
+			(at 144.78 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28889,7 +28921,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 241.3 382.27 0)
+		(at 246.38 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28897,7 +28929,7 @@
 		(dnp no)
 		(uuid "5f6f94c6-3ee0-4127-be8f-47b3c7557f38")
 		(property "Reference" "U10"
-			(at 243.84 371.348 0)
+			(at 248.92 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28905,7 +28937,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 243.84 373.888 0)
+			(at 248.92 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28913,7 +28945,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 241.3 398.78 0)
+			(at 246.38 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28922,7 +28954,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 382.27 0)
+			(at 246.38 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28931,7 +28963,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 382.27 0)
+			(at 246.38 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28940,7 +28972,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 241.3 401.32 0)
+			(at 246.38 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29350,7 +29382,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 237.49 410.21 0)
+		(at 242.57 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29358,7 +29390,7 @@
 		(dnp no)
 		(uuid "63c7f829-f629-4afb-9137-5191b197ca04")
 		(property "Reference" "#PWR084"
-			(at 237.49 414.02 0)
+			(at 242.57 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29367,7 +29399,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 237.49 405.892 0)
+			(at 242.57 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29375,7 +29407,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 237.49 410.21 0)
+			(at 242.57 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29384,7 +29416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 410.21 0)
+			(at 242.57 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29393,7 +29425,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 237.49 410.21 0)
+			(at 242.57 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29797,7 +29829,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 200.66 382.27 0)
+		(at 205.74 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29805,7 +29837,7 @@
 		(dnp no)
 		(uuid "6a2d048a-4247-41dd-ad76-1a07bc0e8893")
 		(property "Reference" "U8"
-			(at 203.2 371.348 0)
+			(at 208.28 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29813,7 +29845,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 203.2 373.888 0)
+			(at 208.28 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29821,7 +29853,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 200.66 398.78 0)
+			(at 205.74 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29830,7 +29862,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 382.27 0)
+			(at 205.74 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29839,7 +29871,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 382.27 0)
+			(at 205.74 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29848,7 +29880,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 200.66 401.32 0)
+			(at 205.74 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30174,7 +30206,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 176.53 410.21 0)
+		(at 181.61 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30182,7 +30214,7 @@
 		(dnp no)
 		(uuid "6d2cfc83-db83-4f69-900d-d09a63325581")
 		(property "Reference" "#PWR081"
-			(at 176.53 414.02 0)
+			(at 181.61 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30191,7 +30223,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 176.53 405.892 0)
+			(at 181.61 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30199,7 +30231,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 410.21 0)
+			(at 181.61 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30208,7 +30240,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 410.21 0)
+			(at 181.61 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30217,7 +30249,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 176.53 410.21 0)
+			(at 181.61 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30315,7 +30347,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 322.58 389.89 0)
+		(at 327.66 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30323,7 +30355,7 @@
 		(dnp no)
 		(uuid "6e9d7c1e-e675-4f9a-9ea9-1f757a099d90")
 		(property "Reference" "LED2"
-			(at 322.58 393.954 0)
+			(at 327.66 395.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30331,7 +30363,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 321.82 383.54 0)
+			(at 326.9 384.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30340,7 +30372,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 322.58 397.51 0)
+			(at 327.66 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30349,7 +30381,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 389.89 0)
+			(at 327.66 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30358,7 +30390,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 389.89 0)
+			(at 327.66 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30367,7 +30399,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 322.58 400.05 0)
+			(at 327.66 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30392,7 +30424,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 278.13 410.21 0)
+		(at 283.21 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -30400,7 +30432,7 @@
 		(dnp no)
 		(uuid "6ef65327-76d3-40fb-8d96-9aee77f03da5")
 		(property "Reference" "#PWR086"
-			(at 278.13 414.02 0)
+			(at 283.21 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30409,7 +30441,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 278.13 405.892 0)
+			(at 283.21 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30417,7 +30449,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 410.21 0)
+			(at 283.21 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30426,7 +30458,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 410.21 0)
+			(at 283.21 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30435,7 +30467,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 278.13 410.21 0)
+			(at 283.21 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31450,7 +31482,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 144.78 427.99 0)
+		(at 149.86 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31458,7 +31490,7 @@
 		(dnp no)
 		(uuid "7a6ab331-8197-4a99-abb3-0bb298f95072")
 		(property "Reference" "#PWR087"
-			(at 144.78 434.34 0)
+			(at 149.86 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31467,7 +31499,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 144.78 432.308 0)
+			(at 149.86 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31475,7 +31507,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 427.99 0)
+			(at 149.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31484,7 +31516,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 427.99 0)
+			(at 149.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31493,7 +31525,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 144.78 427.99 0)
+			(at 149.86 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31591,7 +31623,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 180.34 419.1 0)
+		(at 185.42 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31599,7 +31631,7 @@
 		(dnp no)
 		(uuid "7b294345-ba2a-41d4-abba-b2a0c49ddce5")
 		(property "Reference" "U15"
-			(at 182.88 408.178 0)
+			(at 187.96 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31607,7 +31639,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 182.88 410.718 0)
+			(at 187.96 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31615,7 +31647,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 180.34 435.61 0)
+			(at 185.42 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31624,7 +31656,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 419.1 0)
+			(at 185.42 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31633,7 +31665,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 180.34 419.1 0)
+			(at 185.42 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31642,7 +31674,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 180.34 438.15 0)
+			(at 185.42 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32427,7 +32459,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 220.98 382.27 0)
+		(at 226.06 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32435,7 +32467,7 @@
 		(dnp no)
 		(uuid "8600755e-769b-49b6-8954-3220c89055b7")
 		(property "Reference" "U9"
-			(at 223.52 371.348 0)
+			(at 228.6 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32443,7 +32475,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 223.52 373.888 0)
+			(at 228.6 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32451,7 +32483,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 220.98 398.78 0)
+			(at 226.06 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32460,7 +32492,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 382.27 0)
+			(at 226.06 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32469,7 +32501,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 220.98 382.27 0)
+			(at 226.06 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32478,7 +32510,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 220.98 401.32 0)
+			(at 226.06 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32595,7 +32627,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 427.99 0)
+		(at 190.5 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32603,7 +32635,7 @@
 		(dnp no)
 		(uuid "87d65bb6-051b-4bd3-b4b6-2212f9082528")
 		(property "Reference" "#PWR089"
-			(at 185.42 434.34 0)
+			(at 190.5 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32612,7 +32644,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 432.308 0)
+			(at 190.5 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32620,7 +32652,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 427.99 0)
+			(at 190.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32629,7 +32661,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 427.99 0)
+			(at 190.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32638,7 +32670,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 427.99 0)
+			(at 190.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32660,7 +32692,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 427.99 0)
+		(at 271.78 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32668,7 +32700,7 @@
 		(dnp no)
 		(uuid "89641b4d-eac3-45d9-b14d-3cff337a7b8a")
 		(property "Reference" "#PWR093"
-			(at 266.7 434.34 0)
+			(at 271.78 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32677,7 +32709,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 266.7 432.308 0)
+			(at 271.78 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32685,7 +32717,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 427.99 0)
+			(at 271.78 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32694,7 +32726,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 427.99 0)
+			(at 271.78 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32703,7 +32735,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 266.7 427.99 0)
+			(at 271.78 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32802,7 +32834,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 281.94 382.27 0)
+		(at 287.02 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32810,7 +32842,7 @@
 		(dnp no)
 		(uuid "8b50aed3-7d8e-4f4c-bd5a-c89de62f5012")
 		(property "Reference" "U12"
-			(at 284.48 371.348 0)
+			(at 289.56 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32818,7 +32850,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 284.48 373.888 0)
+			(at 289.56 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32826,7 +32858,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 281.94 398.78 0)
+			(at 287.02 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32835,7 +32867,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 382.27 0)
+			(at 287.02 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32844,7 +32876,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 281.94 382.27 0)
+			(at 287.02 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32853,7 +32885,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 281.94 401.32 0)
+			(at 287.02 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32884,7 +32916,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 156.21 373.38 0)
+		(at 161.29 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32892,7 +32924,7 @@
 		(dnp no)
 		(uuid "8c2852fd-50e7-4238-8de9-21491d7c7864")
 		(property "Reference" "#PWR062"
-			(at 156.21 377.19 0)
+			(at 161.29 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32901,7 +32933,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 156.21 369.062 0)
+			(at 161.29 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32909,7 +32941,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 373.38 0)
+			(at 161.29 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32918,7 +32950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 373.38 0)
+			(at 161.29 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32927,7 +32959,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 156.21 373.38 0)
+			(at 161.29 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33317,7 +33349,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 332.74 401.32 0)
+		(at 337.82 402.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33325,7 +33357,7 @@
 		(dnp no)
 		(uuid "9107ee15-41e3-419c-a5ca-d725c85059fc")
 		(property "Reference" "R49"
-			(at 330.708 405.384 0)
+			(at 335.788 406.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33333,7 +33365,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 332.74 397.51 0)
+			(at 337.82 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33342,7 +33374,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 332.74 408.94 0)
+			(at 337.82 410.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33351,7 +33383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 401.32 0)
+			(at 337.82 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33360,7 +33392,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 335.534 405.384 0)
+			(at 340.614 406.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33368,7 +33400,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 332.74 411.48 0)
+			(at 337.82 412.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33686,7 +33718,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 332.74 412.75 0)
+		(at 337.82 414.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33694,7 +33726,7 @@
 		(dnp no)
 		(uuid "94112221-9c07-413c-ad82-ca68d4052ff6")
 		(property "Reference" "R50"
-			(at 330.708 416.814 0)
+			(at 335.788 418.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33702,7 +33734,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 332.74 408.94 0)
+			(at 337.82 410.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33711,7 +33743,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 332.74 420.37 0)
+			(at 337.82 421.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33720,7 +33752,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 412.75 0)
+			(at 337.82 414.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33729,7 +33761,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 335.534 416.814 0)
+			(at 340.614 418.084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33737,7 +33769,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 332.74 422.91 0)
+			(at 337.82 424.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33844,7 +33876,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 281.94 419.1 0)
+		(at 287.02 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -33852,7 +33884,7 @@
 		(dnp no)
 		(uuid "946744d2-a2c9-4eb1-ad23-8a395196e277")
 		(property "Reference" "U20"
-			(at 284.48 408.178 0)
+			(at 289.56 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33860,7 +33892,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 284.48 410.718 0)
+			(at 289.56 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33868,7 +33900,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 281.94 435.61 0)
+			(at 287.02 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33877,7 +33909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 281.94 419.1 0)
+			(at 287.02 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33886,7 +33918,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 281.94 419.1 0)
+			(at 287.02 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33895,7 +33927,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 281.94 438.15 0)
+			(at 287.02 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34002,7 +34034,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 257.81 373.38 0)
+		(at 262.89 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34010,7 +34042,7 @@
 		(dnp no)
 		(uuid "94aca66a-3864-487f-846f-3cd6b3cef1da")
 		(property "Reference" "#PWR067"
-			(at 257.81 377.19 0)
+			(at 262.89 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34019,7 +34051,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 257.81 369.062 0)
+			(at 262.89 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34027,7 +34059,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 373.38 0)
+			(at 262.89 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34036,7 +34068,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 373.38 0)
+			(at 262.89 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34045,7 +34077,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 257.81 373.38 0)
+			(at 262.89 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34220,7 +34252,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 205.74 427.99 0)
+		(at 210.82 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34228,7 +34260,7 @@
 		(dnp no)
 		(uuid "953cee95-9f1d-4f6d-b049-f69e1b2bd205")
 		(property "Reference" "#PWR090"
-			(at 205.74 434.34 0)
+			(at 210.82 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34237,7 +34269,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 205.74 432.308 0)
+			(at 210.82 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34245,7 +34277,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 427.99 0)
+			(at 210.82 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34254,7 +34286,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 427.99 0)
+			(at 210.82 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34263,7 +34295,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 427.99 0)
+			(at 210.82 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34569,7 +34601,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 257.81 410.21 0)
+		(at 262.89 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -34577,7 +34609,7 @@
 		(dnp no)
 		(uuid "98ef24f0-bfb8-4b2f-bd1e-a1ebc6a22e11")
 		(property "Reference" "#PWR085"
-			(at 257.81 414.02 0)
+			(at 262.89 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34586,7 +34618,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 257.81 405.892 0)
+			(at 262.89 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34594,7 +34626,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 257.81 410.21 0)
+			(at 262.89 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34603,7 +34635,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 257.81 410.21 0)
+			(at 262.89 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34612,7 +34644,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 257.81 410.21 0)
+			(at 262.89 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35030,7 +35062,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 391.16 0)
+		(at 231.14 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35038,7 +35070,7 @@
 		(dnp no)
 		(uuid "9f079c31-0996-4cb5-b790-0f2d5d66201c")
 		(property "Reference" "#PWR075"
-			(at 226.06 397.51 0)
+			(at 231.14 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35047,7 +35079,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 226.06 395.478 0)
+			(at 231.14 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35055,7 +35087,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 391.16 0)
+			(at 231.14 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35064,7 +35096,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 391.16 0)
+			(at 231.14 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35073,7 +35105,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 226.06 391.16 0)
+			(at 231.14 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35559,7 +35591,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 97.79 372.11 90)
+		(at 97.79 378.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35567,7 +35599,7 @@
 		(dnp no)
 		(uuid "a32b7fe1-e012-4db6-8031-c37f0fbb1b82")
 		(property "Reference" "R56"
-			(at 101.854 370.84 90)
+			(at 93.726 377.444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35575,7 +35607,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 93.98 372.11 0)
+			(at 93.98 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35584,7 +35616,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 105.41 372.11 0)
+			(at 105.41 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35593,7 +35625,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 372.11 0)
+			(at 97.79 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35602,7 +35634,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 101.854 373.126 90)
+			(at 93.726 379.476 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35610,7 +35642,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 107.95 372.11 0)
+			(at 107.95 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36095,7 +36127,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 156.21 410.21 0)
+		(at 161.29 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36103,7 +36135,7 @@
 		(dnp no)
 		(uuid "a8cac305-c573-4946-81a5-4e2cdf53d583")
 		(property "Reference" "#PWR080"
-			(at 156.21 414.02 0)
+			(at 161.29 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36112,7 +36144,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 156.21 405.892 0)
+			(at 161.29 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36120,7 +36152,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 410.21 0)
+			(at 161.29 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36129,7 +36161,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 410.21 0)
+			(at 161.29 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36138,7 +36170,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 156.21 410.21 0)
+			(at 161.29 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36532,7 +36564,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 205.74 391.16 0)
+		(at 210.82 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36540,7 +36572,7 @@
 		(dnp no)
 		(uuid "ae18d618-a490-45db-99fc-342a4393ae70")
 		(property "Reference" "#PWR074"
-			(at 205.74 397.51 0)
+			(at 210.82 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36549,7 +36581,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 205.74 395.478 0)
+			(at 210.82 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36557,7 +36589,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 391.16 0)
+			(at 210.82 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36566,7 +36598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 391.16 0)
+			(at 210.82 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36575,7 +36607,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 205.74 391.16 0)
+			(at 210.82 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36978,7 +37010,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 278.13 373.38 0)
+		(at 283.21 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36986,7 +37018,7 @@
 		(dnp no)
 		(uuid "b0d99169-9457-49bb-b9db-b4ccba47ebcc")
 		(property "Reference" "#PWR068"
-			(at 278.13 377.19 0)
+			(at 283.21 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36995,7 +37027,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 278.13 369.062 0)
+			(at 283.21 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37003,7 +37035,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 278.13 373.38 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37012,7 +37044,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 278.13 373.38 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37021,7 +37053,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 278.13 373.38 0)
+			(at 283.21 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37513,7 +37545,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 287.02 427.99 0)
+		(at 292.1 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37521,7 +37553,7 @@
 		(dnp no)
 		(uuid "b953176d-1bd7-46a5-a25a-2dff57751ed4")
 		(property "Reference" "#PWR094"
-			(at 287.02 434.34 0)
+			(at 292.1 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37530,7 +37562,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 287.02 432.308 0)
+			(at 292.1 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37538,7 +37570,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 287.02 427.99 0)
+			(at 292.1 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37547,7 +37579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 287.02 427.99 0)
+			(at 292.1 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37556,7 +37588,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 287.02 427.99 0)
+			(at 292.1 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37731,7 +37763,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 135.89 373.38 0)
+		(at 140.97 374.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37739,7 +37771,7 @@
 		(dnp no)
 		(uuid "bbee7ac3-6482-499e-9264-f7e031c94317")
 		(property "Reference" "#PWR061"
-			(at 135.89 377.19 0)
+			(at 140.97 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37748,7 +37780,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 135.89 369.062 0)
+			(at 140.97 370.332 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37756,7 +37788,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 373.38 0)
+			(at 140.97 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37765,7 +37797,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 373.38 0)
+			(at 140.97 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37774,7 +37806,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 135.89 373.38 0)
+			(at 140.97 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38478,7 +38510,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 332.74 377.19 0)
+		(at 337.82 378.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38486,7 +38518,7 @@
 		(dnp no)
 		(uuid "c53e9d13-3054-47a9-959c-cc4288fe1448")
 		(property "Reference" "R44"
-			(at 330.708 381.254 0)
+			(at 335.788 382.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38494,7 +38526,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 332.74 373.38 0)
+			(at 337.82 374.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38503,7 +38535,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 332.74 384.81 0)
+			(at 337.82 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38512,7 +38544,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 377.19 0)
+			(at 337.82 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38521,7 +38553,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 335.534 381.254 0)
+			(at 340.614 382.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38529,7 +38561,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 332.74 387.35 0)
+			(at 337.82 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38631,7 +38663,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 322.58 377.19 0)
+		(at 327.66 378.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38639,7 +38671,7 @@
 		(dnp no)
 		(uuid "c71b5738-e5f9-43ba-b608-730aedea7d7f")
 		(property "Reference" "LED1"
-			(at 322.58 381.254 0)
+			(at 327.66 382.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38647,7 +38679,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 321.82 370.84 0)
+			(at 326.9 372.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38656,7 +38688,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 322.58 384.81 0)
+			(at 327.66 386.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38665,7 +38697,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 377.19 0)
+			(at 327.66 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38674,7 +38706,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 377.19 0)
+			(at 327.66 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38683,7 +38715,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 322.58 387.35 0)
+			(at 327.66 388.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38708,7 +38740,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 144.78 391.16 0)
+		(at 149.86 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -38716,7 +38748,7 @@
 		(dnp no)
 		(uuid "c8f34d16-0129-4d95-80ef-d63816deecf7")
 		(property "Reference" "#PWR071"
-			(at 144.78 397.51 0)
+			(at 149.86 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38725,7 +38757,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 144.78 395.478 0)
+			(at 149.86 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38733,7 +38765,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 144.78 391.16 0)
+			(at 149.86 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38742,7 +38774,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 144.78 391.16 0)
+			(at 149.86 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38751,7 +38783,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 144.78 391.16 0)
+			(at 149.86 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39812,7 +39844,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 241.3 419.1 0)
+		(at 246.38 420.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -39820,7 +39852,7 @@
 		(dnp no)
 		(uuid "d6c2af21-803b-464b-92c4-6f0ce242b810")
 		(property "Reference" "U18"
-			(at 243.84 408.178 0)
+			(at 248.92 409.448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39828,7 +39860,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 243.84 410.718 0)
+			(at 248.92 411.988 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39836,7 +39868,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 241.3 435.61 0)
+			(at 246.38 436.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39845,7 +39877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 419.1 0)
+			(at 246.38 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39854,7 +39886,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 419.1 0)
+			(at 246.38 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39863,7 +39895,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 241.3 438.15 0)
+			(at 246.38 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40043,7 +40075,7 @@
 		(dnp no)
 		(uuid "d81ee28e-60d1-4f38-8557-6581669aca06")
 		(property "Reference" "C59"
-			(at 116.078 414.02 90)
+			(at 116.078 414.274 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40080,7 +40112,7 @@
 			)
 		)
 		(property "Description" "1uF"
-			(at 118.11 416.052 90)
+			(at 117.602 416.306 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40344,7 +40376,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 332.74 424.18 0)
+		(at 337.82 425.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40352,7 +40384,7 @@
 		(dnp no)
 		(uuid "dcb4f91d-aab1-407a-bee5-a8bdadbe8697")
 		(property "Reference" "R51"
-			(at 330.708 428.244 0)
+			(at 335.788 429.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40360,7 +40392,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 332.74 420.37 0)
+			(at 337.82 421.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40369,7 +40401,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 332.74 431.8 0)
+			(at 337.82 433.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40378,7 +40410,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 332.74 424.18 0)
+			(at 337.82 425.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40387,7 +40419,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 335.534 428.244 0)
+			(at 340.614 429.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40395,7 +40427,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 332.74 434.34 0)
+			(at 337.82 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40650,7 +40682,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 312.42 427.99 0)
+		(at 317.5 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40658,7 +40690,7 @@
 		(dnp no)
 		(uuid "e376fdac-d8ed-4de0-92ac-f335be6cec6b")
 		(property "Reference" "#PWR095"
-			(at 312.42 434.34 0)
+			(at 317.5 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40667,7 +40699,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 312.42 432.308 0)
+			(at 317.5 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40675,7 +40707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.42 427.99 0)
+			(at 317.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40684,7 +40716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.42 427.99 0)
+			(at 317.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40693,7 +40725,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 312.42 427.99 0)
+			(at 317.5 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40715,7 +40747,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 391.16 0)
+		(at 271.78 392.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40723,7 +40755,7 @@
 		(dnp no)
 		(uuid "e5575822-fa2f-4abb-8a9e-269e8484f4b1")
 		(property "Reference" "#PWR077"
-			(at 266.7 397.51 0)
+			(at 271.78 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40732,7 +40764,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 266.7 395.478 0)
+			(at 271.78 396.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40740,7 +40772,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 391.16 0)
+			(at 271.78 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40749,7 +40781,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 391.16 0)
+			(at 271.78 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40758,7 +40790,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 266.7 391.16 0)
+			(at 271.78 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40780,7 +40812,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1005UGC")
-		(at 97.79 384.81 90)
+		(at 97.79 389.89 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -40788,7 +40820,7 @@
 		(dnp no)
 		(uuid "e609808c-1231-4ef4-9583-04bf73862e7c")
 		(property "Reference" "LED6"
-			(at 103.124 384.81 90)
+			(at 103.124 389.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40796,7 +40828,7 @@
 			)
 		)
 		(property "Value" "XL-1005UGC"
-			(at 91.44 385.57 0)
+			(at 91.44 390.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40805,7 +40837,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD_GREEN"
-			(at 105.41 384.81 0)
+			(at 105.41 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40814,7 +40846,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 97.79 384.81 0)
+			(at 97.79 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40823,7 +40855,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 97.79 384.81 0)
+			(at 97.79 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40832,7 +40864,7 @@
 			)
 		)
 		(property "LCSC Part" "C965793"
-			(at 107.95 384.81 0)
+			(at 107.95 389.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40999,7 +41031,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 261.62 382.27 0)
+		(at 266.7 383.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41007,7 +41039,7 @@
 		(dnp no)
 		(uuid "e8693f0c-f5c4-450a-9962-24e2c523645f")
 		(property "Reference" "U11"
-			(at 264.16 371.348 0)
+			(at 269.24 372.618 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41015,7 +41047,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 264.16 373.888 0)
+			(at 269.24 375.158 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41023,7 +41055,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 261.62 398.78 0)
+			(at 266.7 400.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41032,7 +41064,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 382.27 0)
+			(at 266.7 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41041,7 +41073,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 261.62 382.27 0)
+			(at 266.7 383.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41050,7 +41082,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 261.62 401.32 0)
+			(at 266.7 402.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41080,32 +41112,33 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
-		(at 200.66 419.1 0)
+		(lib_id "easyeda2kicad:FRC0402F1002TS")
+		(at 101.6 378.46 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e9a4f6ba-2a3e-45d8-910e-13007e05bbfc")
-		(property "Reference" "U16"
-			(at 203.2 408.178 0)
+		(uuid "e8d42b20-d47e-43b6-a861-df5fb55ccb01")
+		(property "Reference" "R67"
+			(at 105.664 377.444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "WS2812B"
-			(at 203.2 410.718 0)
+		(property "Value" "FRC0402F1002TS"
+			(at 105.41 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
-			(at 200.66 435.61 0)
+		(property "Footprint" "easyeda2kicad:R0402"
+			(at 93.98 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41114,7 +41147,82 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 419.1 0)
+			(at 101.6 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10k"
+			(at 105.664 379.476 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C2906861"
+			(at 91.44 378.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34bf2155-df72-4d3c-b88e-b57676ab0efa")
+		)
+		(pin "2"
+			(uuid "81772d54-5f27-44a6-88fb-1b9b28a1b832")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "R67")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
+		(at 205.74 420.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e9a4f6ba-2a3e-45d8-910e-13007e05bbfc")
+		(property "Reference" "U16"
+			(at 208.28 409.448 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "WS2812B"
+			(at 208.28 411.988 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B"
+			(at 205.74 436.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 205.74 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41123,7 +41231,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 200.66 419.1 0)
+			(at 205.74 420.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41132,7 +41240,7 @@
 			)
 		)
 		(property "LCSC Part" "C5349953"
-			(at 200.66 438.15 0)
+			(at 205.74 439.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41266,7 +41374,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:FRC0402F1002TS")
-		(at 345.44 389.89 0)
+		(at 350.52 391.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41274,7 +41382,7 @@
 		(dnp no)
 		(uuid "e9f4d951-fd9e-41bf-b5bc-d940bfc819bd")
 		(property "Reference" "R47"
-			(at 343.408 393.954 0)
+			(at 348.488 395.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41282,7 +41390,7 @@
 			)
 		)
 		(property "Value" "FRC0402F1002TS"
-			(at 345.44 386.08 0)
+			(at 350.52 387.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41291,7 +41399,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0402"
-			(at 345.44 397.51 0)
+			(at 350.52 398.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41300,7 +41408,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 345.44 389.89 0)
+			(at 350.52 391.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41309,7 +41417,7 @@
 			)
 		)
 		(property "Description" "10k"
-			(at 348.234 393.954 0)
+			(at 353.314 395.224 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41317,7 +41425,7 @@
 			)
 		)
 		(property "LCSC Part" "C2906861"
-			(at 345.44 400.05 0)
+			(at 350.52 401.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42209,7 +42317,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 427.99 0)
+		(at 251.46 429.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42217,7 +42325,7 @@
 		(dnp no)
 		(uuid "fb252d9e-6612-44a7-b035-14744a908d72")
 		(property "Reference" "#PWR092"
-			(at 246.38 434.34 0)
+			(at 251.46 435.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42226,7 +42334,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 432.308 0)
+			(at 251.46 433.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42234,7 +42342,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 427.99 0)
+			(at 251.46 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42243,7 +42351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 427.99 0)
+			(at 251.46 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42252,7 +42360,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 427.99 0)
+			(at 251.46 429.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42426,7 +42534,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 135.89 410.21 0)
+		(at 140.97 411.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -42434,7 +42542,7 @@
 		(dnp no)
 		(uuid "fdfd1b02-9027-423a-a9be-f06cfb036bc0")
 		(property "Reference" "#PWR079"
-			(at 135.89 414.02 0)
+			(at 140.97 415.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42443,7 +42551,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 135.89 405.892 0)
+			(at 140.97 407.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42451,7 +42559,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 410.21 0)
+			(at 140.97 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42460,7 +42568,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 410.21 0)
+			(at 140.97 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42469,7 +42577,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 135.89 410.21 0)
+			(at 140.97 411.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
