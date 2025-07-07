@@ -12,4 +12,5 @@ Firmware: https://github.com/efogdev/trackball-firmware
 6. Add load switches
 7. Move or remove the photodiode
 8. Replace DC-DC converter with a low I<sub>Q</sub> one
-9. Add physical OFF switch 
+9. Add physical OFF switch
+10. Vibromotor pad + FET
