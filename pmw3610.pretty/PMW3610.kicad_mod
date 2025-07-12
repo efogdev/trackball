@@ -66,49 +66,7 @@
 		(uuid "558a6978-654f-456e-8f69-d9911f27a84e")
 	)
 	(fp_line
-		(start 5.05 3.18)
-		(end 5.75 3.18)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "4f75cfe1-7e27-406e-b5a7-1c27b18c2436")
-	)
-	(fp_line
-		(start 5.35 2.8)
-		(end 5.35 3.55)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "Dwgs.User")
-		(uuid "b13b8556-9b6a-48ab-9cf2-c6e80bb50446")
-	)
-	(fp_circle
-		(center 5.35 4.56)
-		(end 5.85 4.56)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "b7651f8e-9db7-42a5-ad4a-b6d5361ca82a")
-	)
-	(fp_circle
-		(center 5.35 3.18)
-		(end 5.85 3.18)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(fill no)
-		(layer "Cmts.User")
-		(uuid "27213585-b1b5-4610-a8df-86d0920026f9")
-	)
-	(fp_line
-		(start 1.05 -2.78)
+		(start 1.05 -1.18)
 		(end 1.05 14.18)
 		(stroke
 			(width 0.12)
@@ -118,8 +76,8 @@
 		(uuid "c169ed33-c394-4d17-a4f5-9eb2643fb729")
 	)
 	(fp_line
-		(start 1.05 -2.78)
-		(end 9.65 -2.78)
+		(start 1.05 -1.18)
+		(end 9.65 -1.18)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -138,7 +96,7 @@
 		(uuid "01349ae0-afb8-4bb9-a4b9-5b9b87b18b04")
 	)
 	(fp_line
-		(start 9.65 -2.78)
+		(start 9.65 -1.18)
 		(end 9.65 14.18)
 		(stroke
 			(width 0.12)
@@ -148,8 +106,8 @@
 		(uuid "02cb9c7f-e28f-47e1-8145-4702cdf05dd0")
 	)
 	(fp_rect
-		(start 1.22 -2.15)
-		(end 9.48 10.85)
+		(start 1.204 0.231)
+		(end 9.464 13.231)
 		(stroke
 			(width 0.05)
 			(type solid)

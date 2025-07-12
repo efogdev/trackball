@@ -1,4 +1,4 @@
-25735159288671828
+25806954653957642
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -71973,6 +71973,20 @@ Pad 1.35mm
 0
 1
 1
+Own
+Simple pad
+
+
+0
+1
+1
+Own
+Thermal pad
+
+
+0
+5
+1
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -102732,6 +102746,13 @@ BULETM-SMD_ESPRESSIF_ESP32-C3-WROOM-02-N4-4MB
 27
 19
 easyeda2kicad
+C0201
+
+
+0
+2
+2
+easyeda2kicad
 C0402
 
 
@@ -102753,7 +102774,42 @@ CASE-A_3216
 2
 2
 easyeda2kicad
+CONN-SMD_3P-P1.0-HC-1.0-3PWT
+
+
+0
+5
+5
+easyeda2kicad
 CONN-SMD_3P-P1.00_HDGC_HDGC1002WV-S-3P
+
+
+0
+5
+5
+easyeda2kicad
+CONN-SMD_BM28B0.6-6DS-2-0.35V-51-1
+
+
+0
+10
+10
+easyeda2kicad
+CONN-SMD_BM28B0.6-10DP-2-0.35V-51
+
+
+0
+14
+14
+easyeda2kicad
+CONN-SMD_BM28B0.6-10DS-2-0.35V-51
+
+
+0
+14
+14
+easyeda2kicad
+CONN-SMD_HCZZ0032-3
 
 
 0
@@ -102781,6 +102837,13 @@ DFN1006B-3_L1.0-W0.6-P0.35-BR
 3
 3
 easyeda2kicad
+DSBGA-6_L1.5-W1.5-P0.50-BL
+
+
+0
+6
+6
+easyeda2kicad
 ESSOP-10_L4.9-W3.9-P1.0-LS6.0-TL-EP
 
 
@@ -102802,11 +102865,46 @@ HDR-TH_8P-P2.00-V-F-R2-C4-S2.00
 8
 8
 easyeda2kicad
+IND-SMD_L2.5-W2.0
+
+
+0
+2
+2
+easyeda2kicad
+IND-SMD_L3.2-W2.5-LQH32CN1R0M53L
+
+
+0
+2
+2
+easyeda2kicad
+IND-SMD_L3.2-W2.5_NLCV32T
+
+
+0
+2
+2
+easyeda2kicad
 IND-SMD_L4.5-W4.1_GSSM0420
 
 
 0
 2
+2
+easyeda2kicad
+KEY-SMD_B3U-1000PM
+
+
+0
+2
+2
+easyeda2kicad
+KEY-SMD_L3.0-W2.5-LS4.0
+
+
+0
+3
 2
 easyeda2kicad
 KEY-SMD_L3.9-W3.0-LS5.0
@@ -102821,6 +102919,20 @@ KEY-SMD_TC-5608-Y
 
 0
 4
+2
+easyeda2kicad
+KEY-SMD_TX-1010-X-X
+
+
+0
+6
+4
+easyeda2kicad
+L0201
+
+
+0
+2
 2
 easyeda2kicad
 L0402
@@ -102844,12 +102956,61 @@ L0806
 2
 2
 easyeda2kicad
+L1008
+
+
+0
+2
+2
+easyeda2kicad
+L1206
+
+
+0
+2
+2
+easyeda2kicad
+L1210
+
+
+0
+2
+2
+easyeda2kicad
 LED-SMD_4P-L1.0-W1.0-TL_XL-1010RGBC-WS2812B
 
 
 0
 4
 4
+easyeda2kicad
+LED-SMD_L0.7-W0.4-RD_GREEN
+
+
+0
+2
+2
+easyeda2kicad
+LED-SMD_L0.65-W0.35-P0.41_XL-0201SURC
+
+
+0
+2
+2
+easyeda2kicad
+LED0402-R-RD
+
+
+0
+2
+2
+easyeda2kicad
+LED0402-R-RD_RED
+
+
+0
+2
+2
 easyeda2kicad
 LED0402-RD
 
@@ -102859,6 +103020,13 @@ LED0402-RD
 2
 easyeda2kicad
 LED0402-RD_GREEN
+
+
+0
+2
+2
+easyeda2kicad
+LED0402-RD_RED
 
 
 0
@@ -102879,6 +103047,20 @@ LQFN-56_L7.0-W7.0-P0.4-EP
 57
 57
 easyeda2kicad
+PDFN-6_L2.0-W2.0-P0.65-BL-EP-1
+
+
+0
+8
+6
+easyeda2kicad
+PDFN-6_L2.0-W2.0-P0.65-BL-EP1.2
+
+
+0
+8
+8
+easyeda2kicad
 QFN-16_L3.0-W3.0-P0.50-TL-EP1.7
 
 
@@ -102892,6 +103074,20 @@ QFN-32_L5.0-W5.0-P0.40-TL-EP2.9
 0
 33
 33
+easyeda2kicad
+QFN-48_L6.0-W6.0-P0.40-TL-EP4.6
+
+
+0
+49
+49
+easyeda2kicad
+R0201
+
+
+0
+2
+2
 easyeda2kicad
 R0402
 
@@ -102942,6 +103138,13 @@ SOIC-16_L9.9-W3.9-P1.27-LS6.0-BL
 16
 16
 easyeda2kicad
+SOP-8_L4.9-W3.9-P1.27-LS6.0-BL
+
+
+0
+8
+8
+easyeda2kicad
 SOP-8_L4.9-W3.9-P1.27-LS6.0-TL-EP
 
 
@@ -102956,12 +103159,47 @@ SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
 3
 3
 easyeda2kicad
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+
+
+0
+5
+5
+easyeda2kicad
+SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BR
+
+
+0
+6
+6
+easyeda2kicad
+SOT-563-6_L1.6-W1.2-P0.50-LS1.6-BL
+
+
+0
+6
+6
+easyeda2kicad
+SOT-563_L1.6-W1.2-P0.50-LS1.6-BL
+
+
+0
+6
+6
+easyeda2kicad
 SOT-563_L1.6-W1.2-P0.50-LS1.6-BR
 
 
 0
 6
 6
+easyeda2kicad
+SW-SMD_4P-L2.8-W1.9-P1.20-LS3.0_1TS028B
+
+
+0
+4
+4
 easyeda2kicad
 SW-SMD_4P-L4.2-W5.4-P1.27-LS8.4-BL
 
@@ -102998,12 +103236,26 @@ SW-SMD_TS24CA
 6
 4
 easyeda2kicad
+SW-SMD_YTS23-E0035-A1B
+
+
+0
+7
+5
+easyeda2kicad
 SW-TH_3P-L12.7-W5.6-P5.08
 
 
 0
 3
 3
+easyeda2kicad
+TDFN-8L_L2.0-W2.0-P0.50-LS2.0-BL-EP
+
+
+0
+9
+9
 easyeda2kicad
 TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR
 
@@ -103012,12 +103264,26 @@ TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR
 5
 5
 easyeda2kicad
+TSSOP-8_L4.4-W3.0-P0.65-LS6.4-BR
+
+
+0
+8
+8
+easyeda2kicad
 TSSOP-16_L5.0-W4.4-P0.65-LS6.4-BL
 
 
 0
 16
 16
+easyeda2kicad
+U-DFN2020-6_L2.0-W2.0-P0.65-BL_LP3418DT2AG
+
+
+0
+8
+8
 easyeda2kicad
 UQFN-10_L1.8-W1.4-P0.40-TL
 
@@ -103039,6 +103305,27 @@ USB-TYPE-C-SMD_C9900008089
 0
 18
 16
+easyeda2kicad
+USB-TYPE-C-SMD_TYPE-C-16P-QTWT
+
+
+0
+18
+13
+easyeda2kicad
+VQFN-16_L3.0-W3.0-P0.50-TL-EP1.7
+
+
+0
+17
+17
+easyeda2kicad
+VSON-6_L1.5-W1.5-P0.50-TL
+
+
+0
+6
+6
 easyeda2kicad
 WQFN-10_L1.8-W1.4-P0.40-BL
 
