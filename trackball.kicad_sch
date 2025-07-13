@@ -9414,18 +9414,19 @@
 		)
 		(uuid "5dbe90e7-9802-4d1e-8248-6e15248ad8ab")
 	)
-	(text "actually 3.15V"
+	(text "actually 3.15V\nshould be still in CC range for RGB LEDs"
 		(exclude_from_sim no)
-		(at 475.742 193.802 0)
+		(at 468.63 193.294 0)
 		(effects
 			(font
 				(size 1.25 1.25)
 				(color 168 168 168 1)
 			)
+			(justify left)
 		)
 		(uuid "8a1edf4b-7049-46e2-b508-4af829392fcf")
 	)
-	(text "actually ~1.875V \nfor LEDs stability and to ensure no need in voltage level converter"
+	(text "actually 1.875V \nfor LEDs and to ensure no need in voltage level converter"
 		(exclude_from_sim no)
 		(at 468.376 99.568 0)
 		(effects
