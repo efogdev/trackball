@@ -46,7 +46,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfdff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "git": {
     "repo_type": "",
@@ -124,19 +124,7 @@
           "pos_x": 35,
           "pos_y": 32,
           "size_x": 1280,
-          "size_y": 720
-        }
-      },
-      {
-        "name": "trackball.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 35,
-          "pos_y": 32,
-          "size_x": 2116,
-          "size_y": 1708
+          "size_y": 598
         }
       }
     ]

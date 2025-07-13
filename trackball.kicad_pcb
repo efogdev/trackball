@@ -20638,13 +20638,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/RES-ADJ-SMD_GT-EVA01AA-L1.wrl"
 			(offset
-				(xyz 0 0.47 0.45)
+				(xyz 0 0.9 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -22425,7 +22425,7 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/CONN-SMD_HCZZ0032-3.wrl"
 			(offset
-				(xyz 0 -0.2 3.1)
+				(xyz 0 -0.6 3.1)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -26363,13 +26363,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0201_L0.6-W0.3-H0.3.wrl"
 			(offset
-				(xyz -1.79 -0 0)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -29627,13 +29627,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0201_L0.6-W0.3-H0.3.wrl"
 			(offset
-				(xyz -1.79 -0 0)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -45387,13 +45387,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0201_L0.6-W0.3-H0.3.wrl"
 			(offset
-				(xyz -1.79 -0 0)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -52473,13 +52473,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/R0201_L0.6-W0.3-H0.3.wrl"
 			(offset
-				(xyz -1.79 -0 0)
+				(xyz 0 -0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
