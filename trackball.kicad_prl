@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 2,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -46,7 +46,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfdff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -125,6 +125,18 @@
           "pos_y": 32,
           "size_x": 1280,
           "size_y": 598
+        }
+      },
+      {
+        "name": "trackball.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 35,
+          "pos_y": 32,
+          "size_x": 2116,
+          "size_y": 1708
         }
       }
     ]
