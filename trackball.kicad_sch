@@ -9416,7 +9416,7 @@
 	)
 	(text "actually 3.15V\nshould be still in CC range for RGB LEDs"
 		(exclude_from_sim no)
-		(at 468.63 193.294 0)
+		(at 468.63 192.786 0)
 		(effects
 			(font
 				(size 1.25 1.25)
@@ -10034,6 +10034,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ee847f6-079d-449d-9c02-4139a6dd3c77")
+	)
+	(junction
+		(at 312.928 343.154)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70f048d3-44ab-41b9-82d7-4edb4f409549")
 	)
 	(junction
 		(at 475.488 40.894)
@@ -10802,6 +10808,10 @@
 	(no_connect
 		(at 90.17 154.178)
 		(uuid "6dc95151-8454-431f-8453-679f1c60463b")
+	)
+	(no_connect
+		(at 518.414 321.564)
+		(uuid "70405a66-3b01-4127-aaaf-0d76eb6a0d04")
 	)
 	(no_connect
 		(at 386.334 231.648)
@@ -11972,6 +11982,16 @@
 			(type default)
 		)
 		(uuid "2a79ca45-1cd9-4d09-a550-d4049156e502")
+	)
+	(wire
+		(pts
+			(xy 312.928 338.074) (xy 312.928 343.154)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a9c96fd-5aec-4118-ac43-00232b789a99")
 	)
 	(wire
 		(pts
@@ -15065,7 +15085,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.882 343.154) (xy 328.422 343.154)
+			(xy 312.928 343.154) (xy 328.422 343.154)
 		)
 		(stroke
 			(width 0)
@@ -15975,6 +15995,16 @@
 	)
 	(wire
 		(pts
+			(xy 312.928 338.074) (xy 328.422 338.074)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5f938c9-4453-48ec-9e1a-b61d2bafceeb")
+	)
+	(wire
+		(pts
 			(xy 390.144 259.588) (xy 390.144 260.858)
 		)
 		(stroke
@@ -16775,7 +16805,7 @@
 	)
 	(wire
 		(pts
-			(xy 325.882 343.154) (xy 325.882 345.694)
+			(xy 312.928 343.154) (xy 312.928 350.266)
 		)
 		(stroke
 			(width 0)
@@ -19607,28 +19637,6 @@
 			)
 		)
 	)
-	(global_label "MCU_SWO"
-		(shape bidirectional)
-		(at 328.422 338.074 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "700344cf-4fce-4f3a-8bbc-aa01f5b7b843")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 315.3146 338.074 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "D_SS2_GND"
 		(shape bidirectional)
 		(at 83.82 104.648 180)
@@ -20896,28 +20904,6 @@
 		(uuid "c846b76a-4bc1-47b8-b230-213f5e1fd1c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 415.0442 248.158 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MCU_SWO"
-		(shape bidirectional)
-		(at 518.414 321.564 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ca95bd70-49aa-4f72-a50d-3aced5226f7b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 531.5214 321.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29191,7 +29177,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 325.882 345.694 0)
+		(at 312.928 350.266 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29199,7 +29185,7 @@
 		(dnp no)
 		(uuid "5658f441-a4f6-467f-a546-1cba44ec4458")
 		(property "Reference" "#PWR044"
-			(at 325.882 352.044 0)
+			(at 312.928 356.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29208,7 +29194,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 325.882 350.012 0)
+			(at 312.928 354.584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29216,7 +29202,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 325.882 345.694 0)
+			(at 312.928 350.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29225,7 +29211,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 325.882 345.694 0)
+			(at 312.928 350.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29234,7 +29220,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 325.882 345.694 0)
+			(at 312.928 350.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
