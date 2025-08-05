@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 5,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -46,7 +46,7 @@
       "shapes"
     ],
     "visible_layers": "ffffffff_ffffffff_fffffff5_7ffdfdff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "git": {
     "repo_type": "",
@@ -59,6 +59,8 @@
   },
   "net_inspector_panel": {
     "col_hidden": [
+      false,
+      false,
       false,
       false,
       false,
@@ -84,9 +86,13 @@
       8,
       9,
       10,
-      11
+      11,
+      12,
+      13
     ],
     "col_widths": [
+      0,
+      0,
       0,
       0,
       0,
@@ -116,13 +122,25 @@
   "project": {
     "files": [
       {
+        "name": "trackball.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 1,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1280,
+          "size_y": 476
+        }
+      },
+      {
         "name": "trackball.kicad_sch",
         "open": true,
         "window": {
           "display": 1,
           "maximized": true,
-          "pos_x": 35,
-          "pos_y": 32,
+          "pos_x": 2782,
+          "pos_y": -268,
           "size_x": 2116,
           "size_y": 1708
         }

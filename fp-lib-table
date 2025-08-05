@@ -3,5 +3,5 @@
   (lib (name "pmw3610")(type "KiCad")(uri "${KIPRJMOD}/pmw3610.pretty")(options "")(descr ""))
   (lib (name "antenna")(type "KiCad")(uri "${KIPRJMOD}/RF_Antenna.pretty")(options "")(descr ""))
   (lib (name "mouse_bite")(type "KiCad")(uri "${KIPRJMOD}/mouse-bite.pretty")(options "")(descr ""))
-  (lib (name "etc")(type "KiCad")(uri "${KIPRJMOD}/etc.pretty")(options "")(descr ""))
+  (lib (name "etc")(type "KiCad")(uri "${KIPRJMOD}/misc.pretty")(options "")(descr ""))
 )
