@@ -1,5 +1,5 @@
 ## Endgame Trackball (hardware)
 
-![image](https://github.com/user-attachments/assets/5b952165-5b7f-4471-807f-55d2fa4e15a3)
+![image](https://github.com/user-attachments/assets/e4799684-6b6b-48c4-90a4-6707a1509810)
 
 Also see: https://github.com/efogtech/endgame-trackball
