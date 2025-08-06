@@ -2013,6 +2013,276 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "easyeda2kicad:BAS40-06T-7-F"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 7.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "BAS40-06T-7-F"
+				(at 0 -7.87 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+				(at 0 -10.41 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+				(at 0 -12.95 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C134362"
+				(at 0 -15.49 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BAS40-06T-7-F_0_1"
+				(polyline
+					(pts
+						(xy 1.27 0.76) (xy 3.81 2.29) (xy 1.27 4.06) (xy 1.27 0.76)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.79) (xy -2.54 -2.79) (xy -2.54 2.29) (xy 1.27 2.29)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -4.32) (xy 3.81 -2.79) (xy 1.27 -1.02) (xy 1.27 -4.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.3 3.81) (xy 3.3 3.81) (xy 3.3 3.81) (xy 3.3 4.32) (xy 3.3 3.81) (xy 3.3 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.3 -1.52) (xy 3.3 -1.52) (xy 3.3 -1.52) (xy 3.3 -1.02) (xy 3.3 -1.52) (xy 3.3 -1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 4.32) (xy 3.81 4.32) (xy 3.81 4.32) (xy 3.3 4.32) (xy 3.81 4.32) (xy 3.81 4.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 0.76) (xy 3.81 0.76) (xy 3.81 0.76) (xy 3.81 4.32) (xy 3.81 4.32) (xy 3.81 4.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 0.76) (xy 3.81 0.76) (xy 3.81 0.76) (xy 4.32 0.76) (xy 3.81 0.76) (xy 3.81 0.76)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -1.02) (xy 3.81 -1.02) (xy 3.81 -1.02) (xy 3.3 -1.02) (xy 3.81 -1.02) (xy 3.81 -1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -4.57) (xy 3.81 -4.57) (xy 3.81 -4.57) (xy 3.81 -1.02) (xy 3.81 -1.02) (xy 3.81 -1.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 -4.57) (xy 3.81 -4.57) (xy 3.81 -4.57) (xy 4.32 -4.57) (xy 3.81 -4.57) (xy 3.81 -4.57)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.32 1.27) (xy 4.32 1.27) (xy 4.32 1.27) (xy 4.32 0.76) (xy 4.32 1.27) (xy 4.32 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.32 -4.06) (xy 4.32 -4.06) (xy 4.32 -4.06) (xy 4.32 -4.57) (xy 4.32 -4.06) (xy 4.32 -4.06)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 -0.25 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 2.29 180)
+					(length 3.81)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 7.62 -2.79 180)
+					(length 3.81)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "easyeda2kicad:CC0201KRX7R7BB151"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9628,7 +9898,7 @@
 		(uuid "1bb6f07f-914f-4a35-82da-491e2a009edb")
 	)
 	(junction
-		(at 438.15 475.234)
+		(at 447.294 449.072)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c006294-b880-40e9-a053-c1ab888205ce")
@@ -9638,6 +9908,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1c53e3ff-6f5a-4566-ac8e-c1e2fbb94d1e")
+	)
+	(junction
+		(at 85.725 335.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1d60d707-c432-4ff1-aef8-82a56c1e39e0")
 	)
 	(junction
 		(at 176.022 466.344)
@@ -9658,7 +9934,7 @@
 		(uuid "20d3dfd6-8baf-471d-bb4e-1225e793b036")
 	)
 	(junction
-		(at 454.66 467.614)
+		(at 463.804 441.452)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23079891-7a4b-4e8f-9265-e2a482f60a1c")
@@ -9680,12 +9956,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "261057e6-a38a-4a2c-8898-48d075222636")
-	)
-	(junction
-		(at 438.15 457.454)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "275c7222-3e43-46f2-b1f0-bba7964fe8a0")
 	)
 	(junction
 		(at 552.704 379.984)
@@ -9724,6 +9994,12 @@
 		(uuid "2f0864a7-72af-4021-a3be-db770dfb75df")
 	)
 	(junction
+		(at 85.725 372.745)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31b5e6bd-4891-467c-b01b-85c625e93870")
+	)
+	(junction
 		(at 446.024 340.614)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -9746,12 +10022,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37af37cb-d34a-4d1a-a96f-98c2c592636f")
-	)
-	(junction
-		(at 454.66 457.454)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3803a4d5-2f78-4a0f-bec7-b15350ce2711")
 	)
 	(junction
 		(at 475.488 168.656)
@@ -10018,6 +10288,12 @@
 		(uuid "6853800e-5f28-4e2b-bd29-3625a7ef5285")
 	)
 	(junction
+		(at 66.675 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69eab3c8-8994-4357-a7b8-c2247e26ecb7")
+	)
+	(junction
 		(at 142.748 223.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10046,12 +10322,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "73d85fbe-e24f-4c63-bfb7-48b5eefdb472")
-	)
-	(junction
-		(at 438.15 467.614)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7589839b-8402-4605-9108-26b4f3b40fce")
 	)
 	(junction
 		(at 203.708 172.72)
@@ -10318,7 +10588,7 @@
 		(uuid "ac01e952-877b-445b-bfd4-1c2419c42f73")
 	)
 	(junction
-		(at 454.66 475.234)
+		(at 463.804 449.072)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af6a29d9-acd0-4a86-ae1b-ba43526cdd01")
@@ -10432,6 +10702,12 @@
 		(uuid "bfb6bcf8-ffc7-4869-8ee5-85e3fab1b758")
 	)
 	(junction
+		(at 85.725 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c02dbc52-5dc1-4840-97d0-ee3161b62996")
+	)
+	(junction
 		(at 191.008 241.3)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -10514,12 +10790,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d554ce39-b746-4912-bd15-ebb85c19cac8")
-	)
-	(junction
-		(at 454.66 449.834)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d56d25cf-1f0a-42a5-8b28-b84e06bad60e")
 	)
 	(junction
 		(at 184.658 241.3)
@@ -10622,6 +10892,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef16f0bb-cfdc-49c1-90a4-5fe25123bf03")
+	)
+	(junction
+		(at 85.725 360.045)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef21157f-4970-45aa-9356-5b765a3896ae")
 	)
 	(junction
 		(at 355.854 199.898)
@@ -10919,7 +11195,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 475.234) (xy 440.69 475.234)
+			(xy 447.294 449.072) (xy 449.834 449.072)
 		)
 		(stroke
 			(width 0)
@@ -11319,7 +11595,7 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 475.234) (xy 459.74 475.234)
+			(xy 463.804 449.072) (xy 468.884 449.072)
 		)
 		(stroke
 			(width 0)
@@ -11589,7 +11865,7 @@
 	)
 	(wire
 		(pts
-			(xy 450.85 467.614) (xy 454.66 467.614)
+			(xy 459.994 441.452) (xy 463.804 441.452)
 		)
 		(stroke
 			(width 0)
@@ -11609,7 +11885,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 467.614) (xy 440.69 467.614)
+			(xy 447.294 441.452) (xy 449.834 441.452)
 		)
 		(stroke
 			(width 0)
@@ -11889,6 +12165,16 @@
 	)
 	(wire
 		(pts
+			(xy 61.595 347.98) (xy 66.675 347.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29cbbed6-a35b-43cb-90df-7effc0e2b228")
+	)
+	(wire
+		(pts
 			(xy 381.762 48.26) (xy 409.702 48.26)
 		)
 		(stroke
@@ -11926,6 +12212,16 @@
 			(type default)
 		)
 		(uuid "2c679084-3013-4e90-8fbe-b6ee1bac3504")
+	)
+	(wire
+		(pts
+			(xy 85.725 360.045) (xy 85.725 372.745)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c88f79b-f3b0-44b5-8daf-b2be7e78f437")
 	)
 	(wire
 		(pts
@@ -12006,16 +12302,6 @@
 			(type default)
 		)
 		(uuid "2ff2ce8a-b7f3-4c27-bd29-b48089665446")
-	)
-	(wire
-		(pts
-			(xy 454.66 449.834) (xy 454.66 457.454)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30161105-918d-49c6-8b0e-60567a294e09")
 	)
 	(wire
 		(pts
@@ -12156,6 +12442,16 @@
 			(type default)
 		)
 		(uuid "33f198b3-30b1-455c-9801-d2bc3de7ab40")
+	)
+	(wire
+		(pts
+			(xy 66.675 344.805) (xy 66.675 347.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33fd6d22-8b39-4c67-a511-002e1c7a45d0")
 	)
 	(wire
 		(pts
@@ -12389,16 +12685,6 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 457.454) (xy 459.74 457.454)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b10458e-3212-4fde-848d-3e033046f9e9")
-	)
-	(wire
-		(pts
 			(xy 153.416 466.344) (xy 155.702 466.344)
 		)
 		(stroke
@@ -12456,16 +12742,6 @@
 			(type default)
 		)
 		(uuid "3e5c2979-7923-41a2-b364-7d4ee3350870")
-	)
-	(wire
-		(pts
-			(xy 438.15 449.834) (xy 440.69 449.834)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e81cc89-1868-42a3-86e0-9ca385107a4c")
 	)
 	(wire
 		(pts
@@ -12659,6 +12935,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.725 347.98) (xy 85.725 360.045)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45f71eb6-dd39-4bf9-8641-c5d14fe6b7ed")
+	)
+	(wire
+		(pts
 			(xy 475.488 54.864) (xy 478.79 54.864)
 		)
 		(stroke
@@ -12819,6 +13105,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.725 323.215) (xy 85.725 335.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bee98f9-889e-4589-9381-10fa671cc6ee")
+	)
+	(wire
+		(pts
 			(xy 262.382 453.644) (xy 262.382 461.264)
 		)
 		(stroke
@@ -12836,16 +13132,6 @@
 			(type default)
 		)
 		(uuid "4c4be9c3-f08f-4542-918a-8c5787b60665")
-	)
-	(wire
-		(pts
-			(xy 438.15 449.834) (xy 438.15 457.454)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c517562-8a3c-446c-9988-3cc21ee179fc")
 	)
 	(wire
 		(pts
@@ -13119,7 +13405,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 467.614) (xy 468.63 467.614)
+			(xy 476.504 441.452) (xy 477.774 441.452)
 		)
 		(stroke
 			(width 0)
@@ -13226,6 +13512,16 @@
 			(type default)
 		)
 		(uuid "59a101af-33ad-4228-9284-68fb869b196f")
+	)
+	(wire
+		(pts
+			(xy 85.725 335.28) (xy 85.725 347.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a0b9c0f-cdb2-4c5b-9124-b2b19368aea6")
 	)
 	(wire
 		(pts
@@ -13739,16 +14035,6 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 449.834) (xy 457.2 449.834)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73293302-afd6-4dce-8ab5-0308710247b0")
-	)
-	(wire
-		(pts
 			(xy 542.544 445.262) (xy 543.814 445.262)
 		)
 		(stroke
@@ -13806,6 +14092,16 @@
 			(type default)
 		)
 		(uuid "7648dbac-7919-43dc-aca1-88b02177f6bc")
+	)
+	(wire
+		(pts
+			(xy 66.675 347.98) (xy 70.485 347.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76abdb4b-1aab-4561-b241-a15d57560f2b")
 	)
 	(wire
 		(pts
@@ -14019,7 +14315,7 @@
 	)
 	(wire
 		(pts
-			(xy 450.85 475.234) (xy 454.66 475.234)
+			(xy 459.994 449.072) (xy 463.804 449.072)
 		)
 		(stroke
 			(width 0)
@@ -14066,16 +14362,6 @@
 			(type default)
 		)
 		(uuid "7ee07119-b4e0-4331-beb2-9911f852a992")
-	)
-	(wire
-		(pts
-			(xy 438.15 457.454) (xy 440.69 457.454)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7fd127c4-f7e7-4a3a-ae55-4a6f4f424204")
 	)
 	(wire
 		(pts
@@ -14159,7 +14445,7 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 467.614) (xy 457.2 467.614)
+			(xy 463.804 441.452) (xy 466.344 441.452)
 		)
 		(stroke
 			(width 0)
@@ -14399,16 +14685,6 @@
 	)
 	(wire
 		(pts
-			(xy 450.85 449.834) (xy 454.66 449.834)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8aad588c-29ca-4e47-98d9-5e0dfde32790")
-	)
-	(wire
-		(pts
 			(xy 324.612 45.466) (xy 323.342 45.466)
 		)
 		(stroke
@@ -14626,16 +14902,6 @@
 			(type default)
 		)
 		(uuid "982142e2-a892-4f43-b8a7-dccea669445b")
-	)
-	(wire
-		(pts
-			(xy 450.85 457.454) (xy 454.66 457.454)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9846c71c-a6db-42e8-a99a-e1a4bfb7ab8e")
 	)
 	(wire
 		(pts
@@ -14996,6 +15262,16 @@
 			(type default)
 		)
 		(uuid "a3fd9df5-569c-4e60-9ef2-13137533cdbf")
+	)
+	(wire
+		(pts
+			(xy 80.645 347.98) (xy 85.725 347.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a403e8cc-2bea-4439-a7fd-ea5699510c12")
 	)
 	(wire
 		(pts
@@ -15489,6 +15765,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.675 330.2) (xy 66.675 334.645)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3c5d185-ab2c-418a-b0b4-80d15a0b6def")
+	)
+	(wire
+		(pts
 			(xy 528.066 133.096) (xy 537.21 133.096)
 		)
 		(stroke
@@ -15636,6 +15922,16 @@
 			(type default)
 		)
 		(uuid "ba886dc9-002d-4270-bba5-5c061889eb6a")
+	)
+	(wire
+		(pts
+			(xy 66.675 363.22) (xy 66.675 368.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bac7aab6-db2e-44c8-827d-84712af9655d")
 	)
 	(wire
 		(pts
@@ -15819,7 +16115,7 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 467.614) (xy 454.66 475.234)
+			(xy 463.804 441.452) (xy 463.804 449.072)
 		)
 		(stroke
 			(width 0)
@@ -16006,6 +16302,16 @@
 			(type default)
 		)
 		(uuid "cb48ad41-f87d-4b30-b3c6-eb235ecb2f75")
+	)
+	(wire
+		(pts
+			(xy 66.675 347.98) (xy 66.675 353.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb6b42e3-a9c0-4f9f-9958-4c8330a01444")
 	)
 	(wire
 		(pts
@@ -16326,16 +16632,6 @@
 			(type default)
 		)
 		(uuid "d6c8c007-c432-483b-834e-b543f396de22")
-	)
-	(wire
-		(pts
-			(xy 438.15 457.454) (xy 438.15 467.614)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d6d32fae-8ef1-4d34-8dfe-1f601c63d126")
 	)
 	(wire
 		(pts
@@ -17149,7 +17445,7 @@
 	)
 	(wire
 		(pts
-			(xy 438.15 475.234) (xy 438.15 479.044)
+			(xy 447.294 449.072) (xy 447.294 452.882)
 		)
 		(stroke
 			(width 0)
@@ -17179,17 +17475,7 @@
 	)
 	(wire
 		(pts
-			(xy 467.36 449.834) (xy 468.63 449.834)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9af845c-2cc9-4043-836e-874251708661")
-	)
-	(wire
-		(pts
-			(xy 438.15 467.614) (xy 438.15 475.234)
+			(xy 447.294 441.452) (xy 447.294 449.072)
 		)
 		(stroke
 			(width 0)
@@ -17266,6 +17552,16 @@
 			(type default)
 		)
 		(uuid "fcd05709-66d9-4fb9-a30e-a1e66f3984e9")
+	)
+	(wire
+		(pts
+			(xy 85.725 372.745) (xy 85.725 385.445)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd32b223-44af-4f66-ad3d-3ecfe419ab7e")
 	)
 	(wire
 		(pts
@@ -17477,6 +17773,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW6"
+		(shape bidirectional)
+		(at 98.425 350.52 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "08949af4-370a-4f0c-8012-03d3648a0982")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -18097,6 +18415,28 @@
 			)
 		)
 	)
+	(global_label "RE2_A"
+		(shape bidirectional)
+		(at 98.425 387.985 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2483decb-c0f4-4d49-b491-d08d019016c8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.6281 387.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D_SS1_DIO"
 		(shape bidirectional)
 		(at 83.82 44.958 180)
@@ -18295,28 +18635,6 @@
 			)
 		)
 	)
-	(global_label "ADC_VBUS"
-		(shape bidirectional)
-		(at 465.074 320.294 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "30df55ac-7586-407a-8bab-196d78bdd44d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 451.4827 320.294 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SS2_NCS"
 		(shape bidirectional)
 		(at 48.26 94.488 0)
@@ -18405,28 +18723,6 @@
 			)
 		)
 	)
-	(global_label "USB_VBUS"
-		(shape bidirectional)
-		(at 468.63 449.834 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3450c60b-5c17-4aec-8682-54ca319b9db0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 482.4027 449.834 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "D_SS1_1V8"
 		(shape bidirectional)
 		(at 214.884 261.62 0)
@@ -18467,6 +18763,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW8"
+		(shape bidirectional)
+		(at 98.425 362.585 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "38418f11-d49b-4a59-8032-596f799df16b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 362.585 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -18935,7 +19253,7 @@
 	)
 	(global_label "ADC_BAT"
 		(shape bidirectional)
-		(at 459.74 475.234 0)
+		(at 468.884 449.072 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18945,7 +19263,7 @@
 		)
 		(uuid "534bbf7b-27c3-49a8-af9c-0560d98f9bfd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 471.7589 475.234 0)
+			(at 480.9029 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19105,6 +19423,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MCU_WAKEUP"
+		(shape bidirectional)
+		(at 465.074 320.294 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "59d4a425-e77d-419f-8302-2aedae9e7bcb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 450.5419 320.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -19593,6 +19933,28 @@
 			)
 		)
 	)
+	(global_label "MCU_WAKEUP"
+		(shape bidirectional)
+		(at 61.595 347.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7365bce6-1388-4b7e-b5f5-9e5a84caba7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.0629 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MCU_XC2"
 		(shape bidirectional)
 		(at 465.074 338.074 180)
@@ -19721,6 +20083,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW5"
+		(shape bidirectional)
+		(at 98.425 345.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7769ee88-d028-4479-b349-18596ad65806")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -20253,6 +20637,28 @@
 			)
 		)
 	)
+	(global_label "RE1_A"
+		(shape bidirectional)
+		(at 98.425 382.905 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9be9e8fc-67ce-4c3d-b560-f2bd1bc0dd06")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 107.6281 382.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_VBUS"
 		(shape bidirectional)
 		(at 303.022 45.466 180)
@@ -20495,28 +20901,6 @@
 			)
 		)
 	)
-	(global_label "ADC_VBUS"
-		(shape bidirectional)
-		(at 459.74 457.454 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b6f051d3-8dc1-4f03-8c15-e39ca56d0067")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 473.3313 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RGB_GND"
 		(shape bidirectional)
 		(at 263.144 372.11 0)
@@ -20552,6 +20936,28 @@
 		(uuid "bc280634-e1eb-44ab-a4cd-79e2a711605e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 528.3766 402.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW7"
+		(shape bidirectional)
+		(at 98.425 357.505 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bc3d4c11-3b52-4128-adf7-2d743478888a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 357.505 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20838,6 +21244,72 @@
 		(uuid "cc740db0-aa0f-482a-9f77-7279b4b3b170")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 214.0456 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SS2_MTN"
+		(shape bidirectional)
+		(at 98.425 375.285 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ccfafc81-e0d7-4d5c-926f-634682ca415e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.7597 375.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW4"
+		(shape bidirectional)
+		(at 98.425 337.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd44e83d-823a-49fa-b010-2ef7505d387e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW1"
+		(shape bidirectional)
+		(at 98.425 320.675 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cdf1a67e-a12b-4dfa-a182-965ee0120df6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 106.3919 320.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21201,7 +21673,7 @@
 	)
 	(global_label "BAT_VCC"
 		(shape bidirectional)
-		(at 468.63 467.614 0)
+		(at 477.774 441.452 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21211,7 +21683,29 @@
 		)
 		(uuid "da62b885-91f0-4962-a971-8ac1c370e274")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 480.6489 467.614 0)
+			(at 489.7929 441.452 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SS1_MTN"
+		(shape bidirectional)
+		(at 98.425 370.205 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "daf17464-a6c3-4c88-9e59-71a1acff4f6c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 109.7597 370.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21441,6 +21935,28 @@
 			)
 		)
 	)
+	(global_label "SW2"
+		(shape bidirectional)
+		(at 98.425 325.755 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ed2f6d63-86e9-4c66-b720-720d6b2e8a01")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 325.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_D_N"
 		(shape bidirectional)
 		(at 361.442 55.88 180)
@@ -21459,6 +21975,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SW3"
+		(shape bidirectional)
+		(at 98.425 332.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ee273867-5e7a-4248-88fa-ec04bd206d76")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.4965 332.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -22043,6 +22581,86 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 385.195 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "084fd4b6-4d15-46ce-bb4d-9c36b8c1e173")
+		(property "Reference" "D7"
+			(at 89.789 380.369 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 379.099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 395.605 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 398.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 385.195 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 400.685 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f1499c13-9ec7-402b-8c75-07606ca84edf")
+		)
+		(pin "3"
+			(uuid "d2d8915c-ced8-4bf9-852b-c928c304f164")
+		)
+		(pin "1"
+			(uuid "502b851e-644d-4284-bf26-16f736c9e5e4")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -23532,6 +24150,86 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 322.965 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15a721f1-b248-4bea-a891-b5a2b45985bc")
+		(property "Reference" "D2"
+			(at 89.789 318.139 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 316.869 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 333.375 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 335.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 322.965 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 338.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "aef946be-cf7d-421b-b15c-d15457749c31")
+		)
+		(pin "3"
+			(uuid "7ec52d5b-893f-43ba-a5f2-4a45350fe486")
+		)
+		(pin "1"
+			(uuid "9c0b5e64-5b26-4e41-b355-c79436814c05")
+		)
+		(instances
+			(project ""
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:RC-01W103JT")
 		(at 211.582 379.222 90)
 		(unit 1)
@@ -23873,82 +24571,6 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "#PWR070")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:0201WMF1603TEE")
-		(at 445.77 449.834 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1844de7f-66e8-49da-89e2-3efa99b1afe5")
-		(property "Reference" "R18"
-			(at 443.738 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0201WMF1603TEE"
-			(at 445.77 446.024 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:R0201"
-			(at 445.77 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 445.77 449.834 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "160k"
-			(at 448.31 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C423714"
-			(at 445.77 459.994 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "7571621c-57e9-4343-b6e4-5f0ef8fa8159")
-		)
-		(pin "1"
-			(uuid "70241d4d-d5ae-4da3-9bcc-a04951a46434")
-		)
-		(instances
-			(project "trackball"
-				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
-					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -25966,6 +26588,86 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 359.795 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "331997d7-fbc3-4962-ae18-0b746002ae3d")
+		(property "Reference" "D5"
+			(at 89.789 354.969 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 353.699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 370.205 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 372.745 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 359.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 375.285 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e8f677cc-731e-44cc-ad97-e977ea3b1ac0")
+		)
+		(pin "3"
+			(uuid "7abef541-1eb7-45b1-a422-8a516df57eae")
+		)
+		(pin "1"
+			(uuid "28320f00-cc49-4f60-b346-12efc23c5cef")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:RC-01W103JT")
 		(at 293.624 206.248 270)
 		(unit 1)
@@ -27237,6 +27939,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 66.675 330.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3d50f6a1-2de1-4827-a2a7-b10c9e2b5211")
+		(property "Reference" "#PWR086"
+			(at 66.675 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3V3"
+			(at 66.675 325.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b956c3af-15b9-407a-be5d-e3b4f7852dec")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:0201WMF1603TEE")
 		(at 378.714 170.688 90)
 		(unit 1)
@@ -27627,6 +28394,71 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "C47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 66.675 368.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45f99c2d-a0e4-447c-9a43-c692976917fb")
+		(property "Reference" "#PWR085"
+			(at 66.675 374.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 66.675 372.618 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.675 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.675 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 66.675 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "86405ad7-0cf6-442e-8336-23b155889ea6")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -29601,6 +30433,84 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:0201B103K160NT")
+		(at 66.675 358.14 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5c0ceb2e-e80b-481a-a186-5de7cb67c6a7")
+		(property "Reference" "C30"
+			(at 63.627 357.124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0201B103K160NT"
+			(at 63.627 356.8701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0201"
+			(at 66.675 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-0201B103K160NT_C285154.html"
+			(at 66.675 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10nF"
+			(at 61.595 359.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C285154"
+			(at 66.675 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0a08d844-991e-458a-b409-0419057b0142")
+		)
+		(pin "2"
+			(uuid "6bbb0acf-0fa2-4e1b-8b95-dee2b371b240")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:XL-1010RGBC-WS2812B")
 		(at 150.622 494.284 0)
 		(unit 1)
@@ -29919,6 +30829,86 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 335.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5f761c9c-385f-45b1-bf13-22f6dc65cc11")
+		(property "Reference" "D3"
+			(at 89.789 330.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 328.934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 335.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "259a863b-5e5c-44f3-bad9-fa6211b3c3a8")
+		)
+		(pin "3"
+			(uuid "c2cb7e8d-d3aa-4cf3-bcb9-971651ff6e76")
+		)
+		(pin "1"
+			(uuid "ec94aab6-4c53-4385-a715-7d58351ee7f3")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -31047,7 +32037,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 438.15 479.044 0)
+		(at 447.294 452.882 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -31055,7 +32045,7 @@
 		(dnp no)
 		(uuid "6cab9aea-dca0-483b-8f68-f67d51c1d119")
 		(property "Reference" "#PWR065"
-			(at 438.15 485.394 0)
+			(at 447.294 459.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31064,7 +32054,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 438.15 483.362 0)
+			(at 447.294 457.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31072,7 +32062,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 438.15 479.044 0)
+			(at 447.294 452.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31081,7 +32071,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 438.15 479.044 0)
+			(at 447.294 452.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31090,7 +32080,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 438.15 479.044 0)
+			(at 447.294 452.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32858,82 +33848,6 @@
 			(project ""
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "L5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "easyeda2kicad:0201WMF1603TEE")
-		(at 462.28 449.834 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8423766e-0a3c-431f-b7a8-e49d8907e413")
-		(property "Reference" "R24"
-			(at 460.248 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0201WMF1603TEE"
-			(at 462.28 446.024 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:R0201"
-			(at 462.28 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 462.28 449.834 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "160k"
-			(at 464.82 446.278 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C423714"
-			(at 462.28 459.994 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "71fc69ad-c4ea-4a55-88a5-20ef811bf6ef")
-		)
-		(pin "1"
-			(uuid "9fd2110a-00e7-4cab-9c24-95150a0a6462")
-		)
-		(instances
-			(project "trackball"
-				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -35330,6 +36244,86 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 372.495 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d162ae9-30ec-44ff-80e4-fa57d7883ede")
+		(property "Reference" "D6"
+			(at 89.789 367.669 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 366.399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 382.905 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 385.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 372.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 387.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "afb34cf6-050c-47ac-8a1f-8eb80cd7429e")
+		)
+		(pin "3"
+			(uuid "932c980a-7975-42c0-a04e-a22546c8d10b")
+		)
+		(pin "1"
+			(uuid "6a7defbd-8c00-4d00-acff-57c3c767e109")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:CGA0201X5R105M6R3ET")
 		(at 543.56 143.256 270)
 		(unit 1)
@@ -35483,7 +36477,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:0201B103K160NT")
-		(at 445.77 475.234 270)
+		(at 454.914 449.072 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35491,7 +36485,7 @@
 		(dnp no)
 		(uuid "9e73f554-25a4-4041-ac0b-addb4d4fe2e3")
 		(property "Reference" "C61"
-			(at 441.96 478.79 90)
+			(at 451.104 452.628 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35500,7 +36494,7 @@
 			)
 		)
 		(property "Value" "0201B103K160NT"
-			(at 444.5001 478.282 0)
+			(at 453.6441 452.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35510,7 +36504,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:C0201"
-			(at 433.07 475.234 0)
+			(at 442.214 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35519,7 +36513,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-0201B103K160NT_C285154.html"
-			(at 430.53 475.234 0)
+			(at 439.674 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35528,7 +36522,7 @@
 			)
 		)
 		(property "Description" "10nF"
-			(at 448.056 478.79 90)
+			(at 457.2 452.628 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35536,7 +36530,7 @@
 			)
 		)
 		(property "LCSC Part" "C285154"
-			(at 427.99 475.234 0)
+			(at 437.134 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36375,84 +37369,6 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:0201B103K160NT")
-		(at 445.77 457.454 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a44c891f-56ef-4d81-b393-ac7d35820c24")
-		(property "Reference" "C67"
-			(at 441.96 461.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0201B103K160NT"
-			(at 444.5001 460.502 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:C0201"
-			(at 433.07 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-0201B103K160NT_C285154.html"
-			(at 430.53 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10nF"
-			(at 448.056 461.01 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part" "C285154"
-			(at 427.99 457.454 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a48946ea-a0f9-45cb-b32b-699ab4c78c67")
-		)
-		(pin "2"
-			(uuid "11850f58-8ee1-49ff-a22b-bf38f56cef53")
-		)
-		(instances
-			(project "trackball"
-				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
-					(reference "C67")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "easyeda2kicad:GRM155R60J226ME11D")
 		(at 537.21 59.944 270)
 		(unit 1)
@@ -37110,7 +38026,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC-01W103JT")
-		(at 462.28 467.614 0)
+		(at 471.424 441.452 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -37118,7 +38034,7 @@
 		(dnp no)
 		(uuid "ac582827-2a8a-46e9-ac7f-43e236862ab1")
 		(property "Reference" "R51"
-			(at 459.232 464.566 0)
+			(at 468.376 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37126,7 +38042,7 @@
 			)
 		)
 		(property "Value" "RC-01W103JT"
-			(at 462.28 464.566 0)
+			(at 471.424 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37135,7 +38051,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0201"
-			(at 462.28 475.234 0)
+			(at 471.424 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37144,7 +38060,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-RC-01W103JT_C304504.html"
-			(at 462.28 477.774 0)
+			(at 471.424 451.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37153,7 +38069,7 @@
 			)
 		)
 		(property "Description" "340k"
-			(at 464.058 464.566 0)
+			(at 473.202 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37161,7 +38077,7 @@
 			)
 		)
 		(property "LCSC Part" "C320848"
-			(at 462.28 480.314 0)
+			(at 471.424 454.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40714,6 +41630,86 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:BAS40-06T-7-F")
+		(at 90.805 347.73 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d979d123-f57c-4bab-a45e-38aa6de09525")
+		(property "Reference" "D4"
+			(at 89.789 342.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BAS40-06T-7-F"
+			(at 91.695 341.634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:SC-75-3_L1.6-W0.8-P1.00-LS1.6-BR"
+			(at 90.805 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Diodes-Incorporated-BAS40-06T-7-F_C134362.html"
+			(at 90.805 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 90.805 347.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C134362"
+			(at 90.805 363.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a88aa972-8de7-486f-831d-e6d1dd9f37ad")
+		)
+		(pin "3"
+			(uuid "e37d5475-544f-4dee-ab30-3bef8d00dcc6")
+		)
+		(pin "1"
+			(uuid "bb79dbb8-ee17-405c-b119-d62957df54f7")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:CGA0201X5R104K100ET")
 		(at 429.514 368.554 0)
 		(unit 1)
@@ -41298,6 +42294,83 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "#PWR078")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:RC-01W103JT")
+		(at 66.675 339.725 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e5fc4646-7ed8-4115-8b3a-ad8a44718124")
+		(property "Reference" "R57"
+			(at 70.231 338.963 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RC-01W103JT"
+			(at 69.723 339.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0201"
+			(at 59.055 339.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-RC-01W103JT_C304504.html"
+			(at 56.515 339.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "340k"
+			(at 70.739 341.249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part" "C320848"
+			(at 53.975 339.725 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2aae404-e70d-4f25-a7e7-5e23c5980205")
+		)
+		(pin "2"
+			(uuid "426284f9-7061-4eed-8554-8de95a2b8b22")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -41921,7 +42994,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:RC-01W103JT")
-		(at 445.77 467.614 0)
+		(at 454.914 441.452 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -41929,7 +43002,7 @@
 		(dnp no)
 		(uuid "eee6489d-fc3c-4769-b126-de436ed22038")
 		(property "Reference" "R50"
-			(at 442.722 464.566 0)
+			(at 451.866 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41937,7 +43010,7 @@
 			)
 		)
 		(property "Value" "RC-01W103JT"
-			(at 445.77 464.566 0)
+			(at 454.914 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41946,7 +43019,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:R0201"
-			(at 445.77 475.234 0)
+			(at 454.914 449.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41955,7 +43028,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/Others_Guangdong-Fenghua-Advanced-Tech-RC-01W103JT_C304504.html"
-			(at 445.77 477.774 0)
+			(at 454.914 451.612 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41964,7 +43037,7 @@
 			)
 		)
 		(property "Description" "340k"
-			(at 447.548 464.566 0)
+			(at 456.692 438.404 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41972,7 +43045,7 @@
 			)
 		)
 		(property "LCSC Part" "C320848"
-			(at 445.77 480.314 0)
+			(at 454.914 454.152 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42855,6 +43928,83 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "LED10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:RT0402BRE0750RL")
+		(at 75.565 347.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fdecbadf-5da6-4050-8f16-b3bdc7550c31")
+		(property "Reference" "R56"
+			(at 75.565 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RT0402BRE0750RL"
+			(at 75.565 344.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:R0402"
+			(at 75.565 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 75.565 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 75.565 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C853312"
+			(at 75.565 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1261d536-c48c-4c65-98ed-cbb4dc1fe43b")
+		)
+		(pin "1"
+			(uuid "f5b99809-f58d-4e94-8e28-e27276f73864")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "R56")
 					(unit 1)
 				)
 			)
