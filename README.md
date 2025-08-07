@@ -1,10 +1,14 @@
 ## Endgame Trackball (hardware)
 
-![image](https://github.com/user-attachments/assets/e4799684-6b6b-48c4-90a4-6707a1509810)
+![image](https://github.com/user-attachments/assets/bf2f9429-06c4-43a7-9818-56adad9188bc)
 
 #### Why 6 layes?
 
 Because it's cheaper than 4 layers. Yes, seriously.
+
+#### Stackup
+
+JLC06161H-3313
 
 #### Also see
 
