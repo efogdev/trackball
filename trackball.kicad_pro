@@ -208,11 +208,11 @@
           ""
         ],
         [
-          "solder_mask_bridge|35260724|46708778|6cbce70b-02fa-4b36-871e-d1c481dc0fe6|080753c0-3717-402c-87ad-7ba51a6c60ae",
+          "solder_mask_bridge|35260724|46563829|6cbce70b-02fa-4b36-871e-d1c481dc0fe6|080753c0-3717-402c-87ad-7ba51a6c60ae",
           ""
         ],
         [
-          "solder_mask_bridge|37019842|46797261|6cbce70b-02fa-4b36-871e-d1c481dc0fe6|080753c0-3717-402c-87ad-7ba51a6c60ae",
+          "solder_mask_bridge|35260724|46708778|6cbce70b-02fa-4b36-871e-d1c481dc0fe6|080753c0-3717-402c-87ad-7ba51a6c60ae",
           ""
         ],
         [
@@ -667,7 +667,7 @@
         "clearance": 0.125,
         "diff_pair_gap": 0.15,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.24,
+        "diff_pair_width": 0.16,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,

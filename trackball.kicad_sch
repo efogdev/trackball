@@ -10306,12 +10306,6 @@
 		(uuid "6ee847f6-079d-449d-9c02-4139a6dd3c77")
 	)
 	(junction
-		(at 312.928 343.154)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "70f048d3-44ab-41b9-82d7-4edb4f409549")
-	)
-	(junction
 		(at 475.488 40.894)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11795,7 +11789,7 @@
 	)
 	(wire
 		(pts
-			(xy 338.582 332.994) (xy 338.582 335.534)
+			(xy 338.455 332.74) (xy 338.455 335.28)
 		)
 		(stroke
 			(width 0)
@@ -12182,16 +12176,6 @@
 			(type default)
 		)
 		(uuid "2a79ca45-1cd9-4d09-a550-d4049156e502")
-	)
-	(wire
-		(pts
-			(xy 312.928 338.074) (xy 312.928 343.154)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2a9c96fd-5aec-4118-ac43-00232b789a99")
 	)
 	(wire
 		(pts
@@ -12635,7 +12619,7 @@
 	)
 	(wire
 		(pts
-			(xy 343.662 334.264) (xy 343.662 338.074)
+			(xy 343.535 334.01) (xy 343.535 337.82)
 		)
 		(stroke
 			(width 0)
@@ -14265,7 +14249,7 @@
 	)
 	(wire
 		(pts
-			(xy 338.582 338.074) (xy 343.662 338.074)
+			(xy 338.455 337.82) (xy 343.535 337.82)
 		)
 		(stroke
 			(width 0)
@@ -15255,7 +15239,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.928 343.154) (xy 328.422 343.154)
+			(xy 313.055 342.9) (xy 328.295 342.9)
 		)
 		(stroke
 			(width 0)
@@ -16165,16 +16149,6 @@
 	)
 	(wire
 		(pts
-			(xy 312.928 338.074) (xy 328.422 338.074)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5f938c9-4453-48ec-9e1a-b61d2bafceeb")
-	)
-	(wire
-		(pts
 			(xy 53.34 38.608) (xy 53.34 42.418)
 		)
 		(stroke
@@ -16945,7 +16919,7 @@
 	)
 	(wire
 		(pts
-			(xy 312.928 343.154) (xy 312.928 350.266)
+			(xy 313.055 342.9) (xy 313.055 350.52)
 		)
 		(stroke
 			(width 0)
@@ -17691,7 +17665,7 @@
 	)
 	(global_label "MCU_RESET"
 		(shape bidirectional)
-		(at 338.582 340.614 0)
+		(at 338.455 340.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -17701,7 +17675,7 @@
 		)
 		(uuid "017ed7e4-1af1-458a-9df2-0e75b02a8560")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 353.4431 340.614 0)
+			(at 353.3161 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18461,7 +18435,7 @@
 	)
 	(global_label "MCU_SWDIO"
 		(shape bidirectional)
-		(at 328.422 340.614 180)
+		(at 328.295 340.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -18471,7 +18445,7 @@
 		)
 		(uuid "2801d088-15a3-4766-86fd-2fe8816af13d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 313.4398 340.614 0)
+			(at 313.3128 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18653,6 +18627,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "3V3_EN"
+		(shape bidirectional)
+		(at 328.295 337.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3243595d-3d2e-470c-9622-94b24b5adf6d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 318.0261 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -20793,7 +20789,7 @@
 	)
 	(global_label "MCU_SWDCLK"
 		(shape bidirectional)
-		(at 328.422 335.534 180)
+		(at 328.295 335.28 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -20803,7 +20799,7 @@
 		)
 		(uuid "aa168d9e-492c-48c2-8920-ca092dccb6e8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 311.807 335.534 0)
+			(at 311.68 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21651,7 +21647,7 @@
 	)
 	(global_label "USB_VBUS"
 		(shape bidirectional)
-		(at 338.582 343.154 0)
+		(at 338.455 342.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -21661,7 +21657,7 @@
 		)
 		(uuid "d923e7ae-1eb6-4040-b1fa-59fe787fbae9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 352.3547 343.154 0)
+			(at 352.2277 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27715,7 +27711,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:ZX-PM2.0-2-4PY")
-		(at 333.502 339.344 0)
+		(at 333.375 339.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27723,7 +27719,7 @@
 		(dnp no)
 		(uuid "3ae2172e-3828-4517-bc45-1400fa781f02")
 		(property "Reference" "J2"
-			(at 333.502 347.726 0)
+			(at 333.375 347.472 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27731,7 +27727,7 @@
 			)
 		)
 		(property "Value" "ZX-PM2.0-2-4PY"
-			(at 333.502 330.454 0)
+			(at 333.375 330.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27740,7 +27736,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:HDR-TH_8P-P2.00-V-F-R2-C4-S2.00"
-			(at 333.502 350.774 0)
+			(at 333.375 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27749,7 +27745,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 333.502 339.344 0)
+			(at 333.375 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27758,7 +27754,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 333.502 339.344 0)
+			(at 333.375 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27767,7 +27763,7 @@
 			)
 		)
 		(property "LCSC Part" "C7499368"
-			(at 333.502 353.314 0)
+			(at 333.375 353.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27933,71 +27929,6 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 66.675 330.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3d50f6a1-2de1-4827-a2a7-b10c9e2b5211")
-		(property "Reference" "#PWR086"
-			(at 66.675 334.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 66.675 325.882 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.675 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.675 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 66.675 330.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b956c3af-15b9-407a-be5d-e3b4f7852dec")
-		)
-		(instances
-			(project "trackball"
-				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
-					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -29743,7 +29674,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 312.928 350.266 0)
+		(at 313.055 350.52 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29751,7 +29682,7 @@
 		(dnp no)
 		(uuid "5658f441-a4f6-467f-a546-1cba44ec4458")
 		(property "Reference" "#PWR044"
-			(at 312.928 356.616 0)
+			(at 313.055 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29760,7 +29691,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 312.928 354.584 0)
+			(at 313.055 354.838 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29768,7 +29699,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 312.928 350.266 0)
+			(at 313.055 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29777,7 +29708,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 312.928 350.266 0)
+			(at 313.055 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29786,7 +29717,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 312.928 350.266 0)
+			(at 313.055 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35141,7 +35072,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 343.662 334.264 0)
+		(at 343.535 334.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35149,7 +35080,7 @@
 		(dnp no)
 		(uuid "9142f8db-bda9-4760-9b30-adf16a11e8a3")
 		(property "Reference" "#PWR041"
-			(at 343.662 338.074 0)
+			(at 343.535 337.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35158,7 +35089,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 343.662 329.946 0)
+			(at 343.535 329.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35166,7 +35097,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 343.662 334.264 0)
+			(at 343.535 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35175,7 +35106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 343.662 334.264 0)
+			(at 343.535 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35184,7 +35115,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 343.662 334.264 0)
+			(at 343.535 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35665,7 +35596,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 338.582 332.994 0)
+		(at 338.455 332.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -35673,7 +35604,7 @@
 		(dnp no)
 		(uuid "95874311-60f1-47b2-9b34-9ea7473f7b82")
 		(property "Reference" "#PWR040"
-			(at 338.582 336.804 0)
+			(at 338.455 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35682,7 +35613,7 @@
 			)
 		)
 		(property "Value" "1V8"
-			(at 338.582 328.676 0)
+			(at 338.455 328.422 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35690,7 +35621,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 338.582 332.994 0)
+			(at 338.455 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35699,7 +35630,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 338.582 332.994 0)
+			(at 338.455 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35708,7 +35639,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 338.582 332.994 0)
+			(at 338.455 332.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36238,6 +36169,71 @@
 			(project "trackball"
 				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
 					(reference "C71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 66.675 330.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ced0748-14e2-4dd6-bfc7-c8ec6531683b")
+		(property "Reference" "#PWR086"
+			(at 66.675 334.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "1V8"
+			(at 66.675 325.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 66.675 330.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "63a9847f-9d0a-4927-83c2-32215490e9a6")
+		)
+		(instances
+			(project "trackball"
+				(path "/77a023a2-37a1-42fd-9279-d115d4dace9d"
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -43943,7 +43939,7 @@
 		(dnp no)
 		(uuid "fdecbadf-5da6-4050-8f16-b3bdc7550c31")
 		(property "Reference" "R56"
-			(at 75.565 345.44 0)
+			(at 73.66 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -43977,13 +43973,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 75.565 347.98 0)
+		(property "Description" "50Ω"
+			(at 77.47 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "LCSC Part" "C853312"
